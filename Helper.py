@@ -69,13 +69,7 @@ class Helper:
             List of parseEvent dictionaries
         '''
         print(self.baseURL + "/season/" + str(season) + "/1-wrc/")
-        r = self.s.get(self.baseURL + "/season/" + str(season) + "/1-wrc/", headers={"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                                                            "Accept-Encoding":"gzip, deflate, br",
-                                                            "Host":"www.ewrc-results.com",
-                                                            "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15",
-                                                            "Accept-Language":"en-GB,en;q=0.9",
-                                                            "Referer":"https://www.ewrc-results.com/season/2020/",
-                                                            "Connection":"keep-alive"})
+        r = self.s.get(self.baseURL + "/season/" + str(season) + "/1-wrc/")
         soup = BeautifulSoup(r.content, 'html.parser')
         events = soup.find_all("div", class_="season-event")
         events = [self.parseEvent(season, i, event) for i, event in enumerate(events)]
