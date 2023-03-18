@@ -151,7 +151,7 @@ class Helper:
             season = self.getSeason(i)
             events.extend(season)
         df = pd.DataFrame(events)
-        df.to_csv("events.csv")
+        df.to_csv("./data/events.csv")
         return events
 
     def generateResultCSV(self, events):
@@ -170,5 +170,5 @@ class Helper:
         results = [i for i in results if i is not None]
         print(results)
         df = pd.DataFrame(results)
-        df.to_csv("results.csv")
+        df.to_csv("./data/results.csv")
         return results

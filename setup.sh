@@ -16,4 +16,4 @@ fi
 source env/bin/activate
 pip3 install -r requirements.txt
 # run Flask for coursework
-python3 index.py
+python3 core/index.py

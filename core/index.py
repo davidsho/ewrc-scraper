@@ -3,6 +3,6 @@ import pandas as pd
 
 helper = Helper()
 helper.login("S4C-rally","@!1Gup4irbNEkJMf")
-events = pd.read_csv("events.csv")
+events = pd.read_csv("./data/events.csv")
 print(events)
 helper.generateResultCSV(events)

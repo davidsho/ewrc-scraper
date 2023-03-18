@@ -1,2 +1,2 @@
 source env/bin/activate
-python3 index.py
+python3 core/index.py
