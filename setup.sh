@@ -12,8 +12,7 @@ EOF
     ) > env/pip.conf
 fi
 
-# activate the virtual environment for the coursework
+# activate the virtual environment
 source env/bin/activate
 pip3 install -r requirements.txt
-# run Flask for coursework
-python3 core/index.py
+echo Installed requirements and virtual environment: ./run.sh to run
