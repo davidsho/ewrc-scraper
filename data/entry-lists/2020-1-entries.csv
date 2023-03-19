@@ -1,0 +1,318 @@
+,leg,start_number,start_time,url,entry_number,driver,codriver,car
+0,1,1,23. 1. 17:00,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465680/,8,Tänak Ott,Järveoja Martin,Hyundai i20 Coupe WRC
+1,1,2,23. 1. 17:03,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465681/,11,Neuville Thierry,Gilsoul Nicolas,Hyundai i20 Coupe WRC
+2,1,3,23. 1. 17:06,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465684/,17,Ogier Sébastien,Ingrassia Julien,Toyota Yaris WRC
+3,1,4,23. 1. 17:09,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465687/,33,Evans Elfyn,Martin Scott,Toyota Yaris WRC
+4,1,5,23. 1. 17:12,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487704/,3,Suninen Teemu,Lehtinen Jarmo,Ford Fiesta WRC
+5,1,6,23. 1. 17:15,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487703/,4,Lappi Esapekka,Ferm Janne,Ford Fiesta WRC
+6,1,7,23. 1. 17:18,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465689/,9,Loeb Sébastien,Elena Daniel,Hyundai i20 Coupe WRC
+7,1,8,23. 1. 17:21,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465688/,69,Rovanperä Kalle,Halttunen Jonne,Toyota Yaris WRC
+8,1,9,23. 1. 17:24,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487705/,44,Greensmith Gus,Edmondson Elliott,Ford Fiesta WRC
+9,1,10,23. 1. 17:27,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479207/,18,Katsuta Takamoto,Barritt Daniel,Toyota Yaris WRC
+10,1,11,23. 1. 17:30,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500964/,40,Jocius Deividas,Varža Mindaugas,Ford Fiesta WRC
+11,1,12,23. 1. 17:33,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494756/,20,Østberg Mads,Eriksen Torstein,Citroën C3 R5
+12,1,13,23. 1. 17:36,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479220/,21,Gryazin Nikolay,Fedorov Yaroslav,Hyundai i20 R5
+13,1,14,23. 1. 17:39,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487687/,22,Veiby Ole Christian,Andersson Jonas,Hyundai i20 R5
+14,1,15,23. 1. 17:42,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2495205/,23,Fourmaux Adrien,Jamoul Renaud,Ford Fiesta Rally2
+15,1,16,23. 1. 17:45,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498360/,24,Yates Rhys,Morgan James,Ford Fiesta Rally2
+16,1,17,23. 1. 17:46,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2480209/,26,Bonato Yoann,Boulloud Benjamin,Citroën C3 R5
+17,1,18,23. 1. 17:47,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487689/,27,Camilli Eric,Buresi François-Xavier,Citroën C3 R5
+18,1,19,23. 1. 17:48,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487691/,28,Ciamin Nicolas,Roche Yannick,Citroën C3 R5
+19,1,20,23. 1. 17:49,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487695/,32,Sarrazin Stéphane,Parent Kévin,Hyundai i20 R5
+20,1,21,23. 1. 17:50,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498718/,38,López Pepe,Rozada Borja,Citroën C3 R5
+21,1,22,23. 1. 17:51,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487696/,34,Scandola Umberto,D'Amore Guido,Hyundai i20 R5
+22,1,23,23. 1. 17:52,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479223/,31,Rossel Yohan,Fulcrand Benoît,Citroën C3 R5
+23,1,24,23. 1. 17:53,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2496401/,35,Nucita Andrea,Di Caro Bernardo,Hyundai i20 R5
+24,1,25,23. 1. 17:54,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2483718/,30,Munster Grégoire,Louka Louis,Škoda Fabia R5
+25,1,26,23. 1. 17:55,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479216/,29,"""Pedro""",Baldaccini Emanuele,Ford Fiesta Rally2
+26,1,27,23. 1. 17:56,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487697/,25,Nobre Paulo,Morales Gabriel,Škoda Fabia R5
+27,1,28,23. 1. 17:57,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2483135/,37,Brazzoli Enrico,Barone Maurizio,Škoda Fabia R5
+28,1,29,23. 1. 17:58,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487706/,36,Díaz-Aboitiz Miguel,Sanjuan de Eusebio Diego,Škoda Fabia R5
+29,1,30,23. 1. 18:01,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2478175/,41,Solberg Oliver,Johnston Aaron,Volkswagen Polo GTI R5
+30,1,31,23. 1. 18:02,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481124/,42,Burri Olivier,Levratti Anderson,Volkswagen Polo GTI R5
+31,1,32,23. 1. 18:03,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2486699/,43,Gino Alessandro,Fappani Danilo,Škoda Fabia Rally2 evo
+32,1,33,23. 1. 18:04,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2484652/,47,Latil Nicolas,Roche Romain,Volkswagen Polo GTI R5
+33,1,34,23. 1. 18:05,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479211/,48,Miele Mauro,Beltrame Luca,Škoda Fabia R5
+34,1,35,23. 1. 18:06,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494146/,54,Astier Raphaël,Vauclare Frédéric,Fiat MR 500X R4
+35,1,36,23. 1. 18:07,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494634/,55,Sias Franck,Mathias Olivier,Škoda Fabia Rally2 evo
+36,1,37,23. 1. 18:08,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498455/,49,Vossen Henk,Berkhof Erwin,Ford Fiesta R5
+37,1,38,23. 1. 18:09,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500975/,50,Arengi Bentivoglio Fabrizio,Bosi Massimiliano,Škoda Fabia R5
+38,1,39,23. 1. 18:10,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498373/,53,Ganguet Christophe,Frison Emmanuel,Ford Fiesta R5
+39,1,40,23. 1. 18:11,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2488320/,45,Baffoun Philippe,Maurin Mathieu,Ford Fiesta Rally2
+40,1,41,23. 1. 18:12,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498461/,46,Boland Eamonn,"""MJ""",Ford Fiesta R5
+41,1,42,23. 1. 18:13,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498451/,56,Pierrat Bertrand,Chevalier Aurélia,Volkswagen Polo GTI R5
+42,1,43,23. 1. 18:14,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481117/,52,Dionisio Ermanno,Grimaldi Fabio,Dacia Sandero R4
+43,1,44,23. 1. 18:15,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498413/,57,Filippi Eric,Mazotti Francis,Renault Clio RS R3T
+44,1,45,23. 1. 18:16,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498444/,58,Lemaire Martin,Barboni Philippe,Citroën DS3 R3T
+45,1,46,23. 1. 18:17,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498446/,59,Dizier Grégory,Dizier Sophy,Renault Clio RS R3T
+46,1,47,23. 1. 18:18,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500974/,60,Grandordy Franck,Vincent Patrice,Renault Clio RS R3T
+47,1,48,23. 1. 18:19,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2483219/,61,Ramoino Domenico,Banaudi Bruno,Renault Clio R3
+48,1,49,23. 1. 18:20,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481123/,62,Vuistiner Ismaël,Kummer Florine,Renault Clio RS R3T
+49,1,50,23. 1. 18:21,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494453/,63,Carminati Boris,Lacruz Marine,Renault Clio RS R3T
+50,1,51,23. 1. 18:22,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498370/,64,Caradec Jérémy,Amoros Cédric,Renault Clio R3
+51,1,52,23. 1. 18:23,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481119/,65,Somaschini Rachele,Lombardi Chiara,Citroën DS3 R3T
+52,1,53,23. 1. 18:24,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494632/,66,Vialle Lilian,Ghirardello Manuel,Renault Clio R3
+53,1,54,23. 1. 18:25,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494501/,67,Poizot Thibaut,Grand Marion,Renault Clio R3
+54,1,55,23. 1. 18:28,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500973/,68,Johnston Sean,Kihurani Alexander,Peugeot 208 R2
+55,1,56,23. 1. 18:29,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494121/,85,Cartier Victor,Margaillan Mathilde,Ford Fiesta R2T
+56,1,57,23. 1. 18:30,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494471/,86,Oberti Damien,Escartefigue Thomas,Peugeot 208 R2
+57,1,58,23. 1. 18:31,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500971/,82,László Zoltán,Begala Tamás,Ford Fiesta R2T19
+58,1,59,23. 1. 18:32,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494455/,74,Pavlidis Nikos,Harryman Allan,Peugeot 208 R2
+59,1,60,23. 1. 18:33,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498576/,70,Ribaudo Tony,Degrange Julien,Peugeot 208 R2
+60,1,61,23. 1. 18:34,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481120/,71,Desmoulins Olivier,Delaplanche Vincent,Peugeot 208 R2
+61,1,62,23. 1. 18:35,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498750/,51,Prosdocimo Alessandro,Zanet Marsha Loredana,Peugeot 208 R2
+62,1,63,23. 1. 18:36,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481122/,73,Althaus Sacha,Zbinden Lisiane,Peugeot 208 R2
+63,1,64,23. 1. 18:37,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481115/,75,Rota Rémy,Escartefigue Jules,Peugeot 208 R2
+64,1,65,23. 1. 18:38,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481113/,76,Eouzan Pascal,Eouzan Pascale,Peugeot 208 R2
+65,1,66,23. 1. 18:39,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494755/,77,Dolce Renaud,Giroud Quentin,Peugeot 208 R2
+66,1,67,23. 1. 18:40,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487702/,78,Juanico Mathias,Pascaud Loris,Peugeot 208 R2
+67,1,68,23. 1. 18:41,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481114/,79,Ducreux Michel,Raoult Anthony,Peugeot 208 R2
+68,1,69,23. 1. 18:42,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487935/,80,Dorche Romain,Bourreau Raphaël,Peugeot 208 R2
+69,1,70,23. 1. 18:43,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494464/,81,Jaussaud Laure,Trinquier-Escartefigue Julie,Peugeot 208 R2
+70,1,71,23. 1. 18:44,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500972/,72,Dessi Marc,Dessi Pamela,Peugeot 208 R2
+71,1,72,23. 1. 18:45,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500969/,83,Lefebvre Thibault,Barnier Patricia,Peugeot 208 R2
+72,1,73,23. 1. 18:46,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500970/,84,Cartagena Julien,Aubery Anthony,Peugeot 208 R2
+73,1,74,23. 1. 18:47,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2483716/,39,Caprasse Luc,Herman Renaud,Abarth 124 Rally RGT
+74,1,75,23. 1. 18:48,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500967/,87,Covi Carlo,Lorigiola Michela,Ford Fiesta R2T19
+75,1,76,23. 1. 18:49,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500968/,88,Jaussaud Bernard,Jaussaud Carine,Renault Twingo RS R2
+76,1,77,23. 1. 18:50,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494646/,89,Michellier Gilles,Richard Christophe,Peugeot 208 R2
+77,1,78,23. 1. 18:51,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500966/,90,Gatti Jean-Pierre,Belleville René,Peugeot 208 R2
+78,1,79,23. 1. 18:52,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498443/,91,Martin Baptiste,Troin Julie,Renault Twingo RS R1
+79,1,80,23. 1. 18:53,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498453/,92,Jerusalmi Jean-Marc,Luthen Guillaume,Renault Twingo RS R1
+80,1,81,23. 1. 18:54,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494639/,93,Cusimano Alain,Massin Emilie,Renault Twingo RS R1
+81,1,82,23. 1. 18:55,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2484644/,94,Garcin Christopher,Nicoulau Florian,Ford Fiesta R1T19
+82,1,83,23. 1. 18:56,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494479/,95,Boisseranc Mickaël,Comte-Rolland Chloé,Ford Fiesta R2T National
+83,1,84,23. 1. 18:57,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498691/,96,Desbordes Richard,Desbordes Steven,Citroën DS3 R1
+84,1,85,23. 1. 18:58,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498452/,97,Villy Ronald,Villy Jonathan,Citroën DS3 R1
+85,1,86,23. 1. 18:59,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494461/,98,Berard Christophe,Bernabo Christophe,Ford Fiesta R2T National
+86,1,87,23. 1. 19:00,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500965/,99,Lartillier Thierry,Lemoine Christophe,Renault Twingo RS R1
+87,1,88,23. 1. 19:01,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494635/,100,Duhamel Benjamin,Szys Solenne,Renault Twingo RS R1
+88,2,1,24. 1. 07:45,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487704/,3,Suninen Teemu,Lehtinen Jarmo,Ford Fiesta WRC
+89,2,2,24. 1. 07:47,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465680/,8,Tänak Ott,Järveoja Martin,Hyundai i20 Coupe WRC
+90,2,3,24. 1. 07:49,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465681/,11,Neuville Thierry,Gilsoul Nicolas,Hyundai i20 Coupe WRC
+91,2,4,24. 1. 07:51,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465684/,17,Ogier Sébastien,Ingrassia Julien,Toyota Yaris WRC
+92,2,5,24. 1. 07:53,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465687/,33,Evans Elfyn,Martin Scott,Toyota Yaris WRC
+93,2,6,24. 1. 07:55,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487703/,4,Lappi Esapekka,Ferm Janne,Ford Fiesta WRC
+94,2,7,24. 1. 07:57,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465689/,9,Loeb Sébastien,Elena Daniel,Hyundai i20 Coupe WRC
+95,2,8,24. 1. 07:59,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465688/,69,Rovanperä Kalle,Halttunen Jonne,Toyota Yaris WRC
+96,2,9,24. 1. 08:01,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487705/,44,Greensmith Gus,Edmondson Elliott,Ford Fiesta WRC
+97,2,10,24. 1. 08:03,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479207/,18,Katsuta Takamoto,Barritt Daniel,Toyota Yaris WRC
+98,2,11,24. 1. 08:05,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500964/,40,Jocius Deividas,Varža Mindaugas,Ford Fiesta WRC
+99,2,12,24. 1. 08:07,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487689/,27,Camilli Eric,Buresi François-Xavier,Citroën C3 R5
+100,2,13,24. 1. 08:08,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494756/,20,Østberg Mads,Eriksen Torstein,Citroën C3 R5
+101,2,14,24. 1. 08:09,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487695/,32,Sarrazin Stéphane,Parent Kévin,Hyundai i20 R5
+102,2,15,24. 1. 08:10,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487687/,22,Veiby Ole Christian,Andersson Jonas,Hyundai i20 R5
+103,2,16,24. 1. 08:11,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487691/,28,Ciamin Nicolas,Roche Yannick,Citroën C3 R5
+104,2,17,24. 1. 08:12,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2483718/,30,Munster Grégoire,Louka Louis,Škoda Fabia R5
+105,2,18,24. 1. 08:13,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479223/,31,Rossel Yohan,Fulcrand Benoît,Citroën C3 R5
+106,2,19,24. 1. 08:14,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2480209/,26,Bonato Yoann,Boulloud Benjamin,Citroën C3 R5
+107,2,20,24. 1. 08:15,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487696/,34,Scandola Umberto,D'Amore Guido,Hyundai i20 R5
+108,2,21,24. 1. 08:16,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2496401/,35,Nucita Andrea,Di Caro Bernardo,Hyundai i20 R5
+109,2,22,24. 1. 08:17,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479220/,21,Gryazin Nikolay,Fedorov Yaroslav,Hyundai i20 R5
+110,2,23,24. 1. 08:18,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498360/,24,Yates Rhys,Morgan James,Ford Fiesta Rally2
+111,2,24,24. 1. 08:19,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2495205/,23,Fourmaux Adrien,Jamoul Renaud,Ford Fiesta Rally2
+112,2,25,24. 1. 08:20,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498718/,38,López Pepe,Rozada Borja,Citroën C3 R5
+113,2,26,24. 1. 08:21,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487697/,25,Nobre Paulo,Morales Gabriel,Škoda Fabia R5
+114,2,27,24. 1. 08:22,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479216/,29,"""Pedro""",Baldaccini Emanuele,Ford Fiesta Rally2
+115,2,28,24. 1. 08:23,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2483135/,37,Brazzoli Enrico,Barone Maurizio,Škoda Fabia R5
+116,2,29,24. 1. 08:24,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487706/,36,Díaz-Aboitiz Miguel,Sanjuan de Eusebio Diego,Škoda Fabia R5
+117,2,30,24. 1. 08:27,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494634/,55,Sias Franck,Mathias Olivier,Škoda Fabia Rally2 evo
+118,2,31,24. 1. 08:28,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2478175/,41,Solberg Oliver,Johnston Aaron,Volkswagen Polo GTI R5
+119,2,32,24. 1. 08:29,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481124/,42,Burri Olivier,Levratti Anderson,Volkswagen Polo GTI R5
+120,2,33,24. 1. 08:30,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2484652/,47,Latil Nicolas,Roche Romain,Volkswagen Polo GTI R5
+121,2,34,24. 1. 08:31,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479211/,48,Miele Mauro,Beltrame Luca,Škoda Fabia R5
+122,2,35,24. 1. 08:32,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494146/,54,Astier Raphaël,Vauclare Frédéric,Fiat MR 500X R4
+123,2,36,24. 1. 08:33,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2486699/,43,Gino Alessandro,Fappani Danilo,Škoda Fabia Rally2 evo
+124,2,37,24. 1. 08:34,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500973/,68,Johnston Sean,Kihurani Alexander,Peugeot 208 R2
+125,2,38,24. 1. 08:35,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494501/,67,Poizot Thibaut,Grand Marion,Renault Clio R3
+126,2,39,24. 1. 08:36,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498373/,53,Ganguet Christophe,Frison Emmanuel,Ford Fiesta R5
+127,2,40,24. 1. 08:37,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494471/,86,Oberti Damien,Escartefigue Thomas,Peugeot 208 R2
+128,2,41,24. 1. 08:38,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2488320/,45,Baffoun Philippe,Maurin Mathieu,Ford Fiesta Rally2
+129,2,42,24. 1. 08:39,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481123/,62,Vuistiner Ismaël,Kummer Florine,Renault Clio RS R3T
+130,2,43,24. 1. 08:40,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500974/,60,Grandordy Franck,Vincent Patrice,Renault Clio RS R3T
+131,2,44,24. 1. 08:41,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494453/,63,Carminati Boris,Lacruz Marine,Renault Clio RS R3T
+132,2,45,24. 1. 08:42,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494121/,85,Cartier Victor,Margaillan Mathilde,Ford Fiesta R2T
+133,2,46,24. 1. 08:43,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498461/,46,Boland Eamonn,"""MJ""",Ford Fiesta R5
+134,2,47,24. 1. 08:44,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494755/,77,Dolce Renaud,Giroud Quentin,Peugeot 208 R2
+135,2,48,24. 1. 08:45,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498370/,64,Caradec Jérémy,Amoros Cédric,Renault Clio R3
+136,2,49,24. 1. 08:46,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498451/,56,Pierrat Bertrand,Chevalier Aurélia,Volkswagen Polo GTI R5
+137,2,50,24. 1. 08:47,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498576/,70,Ribaudo Tony,Degrange Julien,Peugeot 208 R2
+138,2,51,24. 1. 08:48,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481115/,75,Rota Rémy,Escartefigue Jules,Peugeot 208 R2
+139,2,52,24. 1. 08:49,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494455/,74,Pavlidis Nikos,Harryman Allan,Peugeot 208 R2
+140,2,53,24. 1. 08:50,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481122/,73,Althaus Sacha,Zbinden Lisiane,Peugeot 208 R2
+141,2,54,24. 1. 08:51,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481117/,52,Dionisio Ermanno,Grimaldi Fabio,Dacia Sandero R4
+142,2,55,24. 1. 08:52,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494479/,95,Boisseranc Mickaël,Comte-Rolland Chloé,Ford Fiesta R2T National
+143,2,56,24. 1. 08:54,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500975/,50,Arengi Bentivoglio Fabrizio,Bosi Massimiliano,Škoda Fabia R5
+144,2,57,24. 1. 08:55,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498413/,57,Filippi Eric,Mazotti Francis,Renault Clio RS R3T
+145,2,58,24. 1. 08:56,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498446/,59,Dizier Grégory,Dizier Sophy,Renault Clio RS R3T
+146,2,59,24. 1. 08:57,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498455/,49,Vossen Henk,Berkhof Erwin,Ford Fiesta R5
+147,2,60,24. 1. 08:58,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481119/,65,Somaschini Rachele,Lombardi Chiara,Citroën DS3 R3T
+148,2,61,24. 1. 08:59,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481113/,76,Eouzan Pascal,Eouzan Pascale,Peugeot 208 R2
+149,2,62,24. 1. 09:00,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481114/,79,Ducreux Michel,Raoult Anthony,Peugeot 208 R2
+150,2,63,24. 1. 09:01,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498691/,96,Desbordes Richard,Desbordes Steven,Citroën DS3 R1
+151,2,64,24. 1. 09:02,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498750/,51,Prosdocimo Alessandro,Zanet Marsha Loredana,Peugeot 208 R2
+152,2,65,24. 1. 09:03,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500969/,83,Lefebvre Thibault,Barnier Patricia,Peugeot 208 R2
+153,2,66,24. 1. 09:04,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494632/,66,Vialle Lilian,Ghirardello Manuel,Renault Clio R3
+154,2,67,24. 1. 09:05,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494635/,100,Duhamel Benjamin,Szys Solenne,Renault Twingo RS R1
+155,2,68,24. 1. 09:06,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494464/,81,Jaussaud Laure,Trinquier-Escartefigue Julie,Peugeot 208 R2
+156,2,69,24. 1. 09:07,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498444/,58,Lemaire Martin,Barboni Philippe,Citroën DS3 R3T
+157,2,70,24. 1. 09:08,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494646/,89,Michellier Gilles,Richard Christophe,Peugeot 208 R2
+158,2,71,24. 1. 09:09,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500966/,90,Gatti Jean-Pierre,Belleville René,Peugeot 208 R2
+159,2,72,24. 1. 09:10,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2484644/,94,Garcin Christopher,Nicoulau Florian,Ford Fiesta R1T19
+160,2,73,24. 1. 09:11,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498443/,91,Martin Baptiste,Troin Julie,Renault Twingo RS R1
+161,2,74,24. 1. 09:12,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500967/,87,Covi Carlo,Lorigiola Michela,Ford Fiesta R2T19
+162,2,75,24. 1. 09:13,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500970/,84,Cartagena Julien,Aubery Anthony,Peugeot 208 R2
+163,2,76,24. 1. 09:14,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494461/,98,Berard Christophe,Bernabo Christophe,Ford Fiesta R2T National
+164,2,77,24. 1. 09:15,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2483219/,61,Ramoino Domenico,Banaudi Bruno,Renault Clio R3
+165,2,78,24. 1. 09:16,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500965/,99,Lartillier Thierry,Lemoine Christophe,Renault Twingo RS R1
+166,2,79,24. 1. 09:17,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494639/,93,Cusimano Alain,Massin Emilie,Renault Twingo RS R1
+167,2,80,24. 1. 09:18,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500968/,88,Jaussaud Bernard,Jaussaud Carine,Renault Twingo RS R2
+168,2,81,24. 1. 09:19,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500971/,82,László Zoltán,Begala Tamás,Ford Fiesta R2T19
+169,2,82,24. 1. 09:20,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487702/,78,Juanico Mathias,Pascaud Loris,Peugeot 208 R2
+170,2,83,24. 1. 09:21,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2483716/,39,Caprasse Luc,Herman Renaud,Abarth 124 Rally RGT
+171,2,84,24. 1. 09:22,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500972/,72,Dessi Marc,Dessi Pamela,Peugeot 208 R2
+172,2,85,24. 1. 09:23,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498452/,97,Villy Ronald,Villy Jonathan,Citroën DS3 R1
+173,2,86,24. 1. 09:24,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498453/,92,Jerusalmi Jean-Marc,Luthen Guillaume,Renault Twingo RS R1
+174,3,1,25. 1. 08:32,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487705/,44,Greensmith Gus,Edmondson Elliott,Ford Fiesta WRC
+175,3,2,25. 1. 08:35,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487704/,3,Suninen Teemu,Lehtinen Jarmo,Ford Fiesta WRC
+176,3,3,25. 1. 08:38,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479207/,18,Katsuta Takamoto,Barritt Daniel,Toyota Yaris WRC
+177,3,4,25. 1. 08:41,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465688/,69,Rovanperä Kalle,Halttunen Jonne,Toyota Yaris WRC
+178,3,5,25. 1. 08:44,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487703/,4,Lappi Esapekka,Ferm Janne,Ford Fiesta WRC
+179,3,6,25. 1. 08:47,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465689/,9,Loeb Sébastien,Elena Daniel,Hyundai i20 Coupe WRC
+180,3,7,25. 1. 08:50,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465681/,11,Neuville Thierry,Gilsoul Nicolas,Hyundai i20 Coupe WRC
+181,3,8,25. 1. 08:53,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465687/,33,Evans Elfyn,Martin Scott,Toyota Yaris WRC
+182,3,9,25. 1. 08:56,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465684/,17,Ogier Sébastien,Ingrassia Julien,Toyota Yaris WRC
+183,3,10,25. 1. 08:59,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500964/,40,Jocius Deividas,Varža Mindaugas,Ford Fiesta WRC
+184,3,11,25. 1. 09:02,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487689/,27,Camilli Eric,Buresi François-Xavier,Citroën C3 R5
+185,3,12,25. 1. 09:05,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487691/,28,Ciamin Nicolas,Roche Yannick,Citroën C3 R5
+186,3,13,25. 1. 09:08,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494756/,20,Østberg Mads,Eriksen Torstein,Citroën C3 R5
+187,3,14,25. 1. 09:11,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487687/,22,Veiby Ole Christian,Andersson Jonas,Hyundai i20 R5
+188,3,15,25. 1. 09:14,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2480209/,26,Bonato Yoann,Boulloud Benjamin,Citroën C3 R5
+189,3,16,25. 1. 09:17,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479223/,31,Rossel Yohan,Fulcrand Benoît,Citroën C3 R5
+190,3,17,25. 1. 09:18,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2483718/,30,Munster Grégoire,Louka Louis,Škoda Fabia R5
+191,3,18,25. 1. 09:19,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479220/,21,Gryazin Nikolay,Fedorov Yaroslav,Hyundai i20 R5
+192,3,19,25. 1. 09:20,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2495205/,23,Fourmaux Adrien,Jamoul Renaud,Ford Fiesta Rally2
+193,3,20,25. 1. 09:21,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498360/,24,Yates Rhys,Morgan James,Ford Fiesta Rally2
+194,3,21,25. 1. 09:22,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498718/,38,López Pepe,Rozada Borja,Citroën C3 R5
+195,3,22,25. 1. 09:23,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2496401/,35,Nucita Andrea,Di Caro Bernardo,Hyundai i20 R5
+196,3,23,25. 1. 09:24,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487696/,34,Scandola Umberto,D'Amore Guido,Hyundai i20 R5
+197,3,24,25. 1. 09:25,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479216/,29,"""Pedro""",Baldaccini Emanuele,Ford Fiesta Rally2
+198,3,25,25. 1. 09:26,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487697/,25,Nobre Paulo,Morales Gabriel,Škoda Fabia R5
+199,3,26,25. 1. 09:27,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2483135/,37,Brazzoli Enrico,Barone Maurizio,Škoda Fabia R5
+200,3,27,25. 1. 09:28,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487706/,36,Díaz-Aboitiz Miguel,Sanjuan de Eusebio Diego,Škoda Fabia R5
+201,3,28,25. 1. 09:31,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2478175/,41,Solberg Oliver,Johnston Aaron,Volkswagen Polo GTI R5
+202,3,29,25. 1. 09:32,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481124/,42,Burri Olivier,Levratti Anderson,Volkswagen Polo GTI R5
+203,3,30,25. 1. 09:33,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479211/,48,Miele Mauro,Beltrame Luca,Škoda Fabia R5
+204,3,31,25. 1. 09:34,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494146/,54,Astier Raphaël,Vauclare Frédéric,Fiat MR 500X R4
+205,3,32,25. 1. 09:35,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494634/,55,Sias Franck,Mathias Olivier,Škoda Fabia Rally2 evo
+206,3,33,25. 1. 09:36,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494471/,86,Oberti Damien,Escartefigue Thomas,Peugeot 208 R2
+207,3,34,25. 1. 09:37,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498373/,53,Ganguet Christophe,Frison Emmanuel,Ford Fiesta R5
+208,3,35,25. 1. 09:38,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500973/,68,Johnston Sean,Kihurani Alexander,Peugeot 208 R2
+209,3,36,25. 1. 09:39,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2486699/,43,Gino Alessandro,Fappani Danilo,Škoda Fabia Rally2 evo
+210,3,37,25. 1. 09:40,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2488320/,45,Baffoun Philippe,Maurin Mathieu,Ford Fiesta Rally2
+211,3,38,25. 1. 09:41,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498461/,46,Boland Eamonn,"""MJ""",Ford Fiesta R5
+212,3,39,25. 1. 09:42,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494501/,67,Poizot Thibaut,Grand Marion,Renault Clio R3
+213,3,40,25. 1. 09:43,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494755/,77,Dolce Renaud,Giroud Quentin,Peugeot 208 R2
+214,3,41,25. 1. 09:44,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2484652/,47,Latil Nicolas,Roche Romain,Volkswagen Polo GTI R5
+215,3,42,25. 1. 09:45,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481123/,62,Vuistiner Ismaël,Kummer Florine,Renault Clio RS R3T
+216,3,43,25. 1. 09:46,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498370/,64,Caradec Jérémy,Amoros Cédric,Renault Clio R3
+217,3,44,25. 1. 09:47,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498451/,56,Pierrat Bertrand,Chevalier Aurélia,Volkswagen Polo GTI R5
+218,3,45,25. 1. 09:48,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494121/,85,Cartier Victor,Margaillan Mathilde,Ford Fiesta R2T
+219,3,46,25. 1. 09:49,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500975/,50,Arengi Bentivoglio Fabrizio,Bosi Massimiliano,Škoda Fabia R5
+220,3,47,25. 1. 09:50,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494453/,63,Carminati Boris,Lacruz Marine,Renault Clio RS R3T
+221,3,48,25. 1. 09:51,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500974/,60,Grandordy Franck,Vincent Patrice,Renault Clio RS R3T
+222,3,49,25. 1. 09:52,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498576/,70,Ribaudo Tony,Degrange Julien,Peugeot 208 R2
+223,3,50,25. 1. 09:53,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494479/,95,Boisseranc Mickaël,Comte-Rolland Chloé,Ford Fiesta R2T National
+224,3,51,25. 1. 09:54,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498455/,49,Vossen Henk,Berkhof Erwin,Ford Fiesta R5
+225,3,52,25. 1. 09:55,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494455/,74,Pavlidis Nikos,Harryman Allan,Peugeot 208 R2
+226,3,53,25. 1. 09:56,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481122/,73,Althaus Sacha,Zbinden Lisiane,Peugeot 208 R2
+227,3,54,25. 1. 09:57,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500966/,90,Gatti Jean-Pierre,Belleville René,Peugeot 208 R2
+228,3,55,25. 1. 09:58,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498750/,51,Prosdocimo Alessandro,Zanet Marsha Loredana,Peugeot 208 R2
+229,3,56,25. 1. 09:59,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494632/,66,Vialle Lilian,Ghirardello Manuel,Renault Clio R3
+230,3,57,25. 1. 10:00,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500971/,82,László Zoltán,Begala Tamás,Ford Fiesta R2T19
+231,3,58,25. 1. 10:01,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481115/,75,Rota Rémy,Escartefigue Jules,Peugeot 208 R2
+232,3,59,25. 1. 10:02,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498691/,96,Desbordes Richard,Desbordes Steven,Citroën DS3 R1
+233,3,60,25. 1. 10:03,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481113/,76,Eouzan Pascal,Eouzan Pascale,Peugeot 208 R2
+234,3,61,25. 1. 10:04,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494464/,81,Jaussaud Laure,Trinquier-Escartefigue Julie,Peugeot 208 R2
+235,3,62,25. 1. 10:05,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2484644/,94,Garcin Christopher,Nicoulau Florian,Ford Fiesta R1T19
+236,3,63,25. 1. 10:06,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500969/,83,Lefebvre Thibault,Barnier Patricia,Peugeot 208 R2
+237,3,64,25. 1. 10:07,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481114/,79,Ducreux Michel,Raoult Anthony,Peugeot 208 R2
+238,3,65,25. 1. 10:08,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481117/,52,Dionisio Ermanno,Grimaldi Fabio,Dacia Sandero R4
+239,3,66,25. 1. 10:09,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498444/,58,Lemaire Martin,Barboni Philippe,Citroën DS3 R3T
+240,3,67,25. 1. 10:10,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494635/,100,Duhamel Benjamin,Szys Solenne,Renault Twingo RS R1
+241,3,68,25. 1. 10:11,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498443/,91,Martin Baptiste,Troin Julie,Renault Twingo RS R1
+242,3,69,25. 1. 10:12,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494646/,89,Michellier Gilles,Richard Christophe,Peugeot 208 R2
+243,3,70,25. 1. 10:13,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500967/,87,Covi Carlo,Lorigiola Michela,Ford Fiesta R2T19
+244,3,71,25. 1. 10:14,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498413/,57,Filippi Eric,Mazotti Francis,Renault Clio RS R3T
+245,3,72,25. 1. 10:15,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481119/,65,Somaschini Rachele,Lombardi Chiara,Citroën DS3 R3T
+246,3,73,25. 1. 10:16,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498446/,59,Dizier Grégory,Dizier Sophy,Renault Clio RS R3T
+247,3,74,25. 1. 10:17,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2483716/,39,Caprasse Luc,Herman Renaud,Abarth 124 Rally RGT
+248,3,75,25. 1. 10:18,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494461/,98,Berard Christophe,Bernabo Christophe,Ford Fiesta R2T National
+249,3,76,25. 1. 10:19,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498452/,97,Villy Ronald,Villy Jonathan,Citroën DS3 R1
+250,3,77,25. 1. 10:20,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2483219/,61,Ramoino Domenico,Banaudi Bruno,Renault Clio R3
+251,3,78,25. 1. 10:21,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500968/,88,Jaussaud Bernard,Jaussaud Carine,Renault Twingo RS R2
+252,3,79,25. 1. 10:22,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494639/,93,Cusimano Alain,Massin Emilie,Renault Twingo RS R1
+253,3,80,25. 1. 10:23,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500965/,99,Lartillier Thierry,Lemoine Christophe,Renault Twingo RS R1
+254,3,81,25. 1. 10:24,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500972/,72,Dessi Marc,Dessi Pamela,Peugeot 208 R2
+255,3,82,25. 1. 10:25,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498453/,92,Jerusalmi Jean-Marc,Luthen Guillaume,Renault Twingo RS R1
+256,3,83,25. 1. 10:26,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500970/,84,Cartagena Julien,Aubery Anthony,Peugeot 208 R2
+257,4,1,26. 1. 06:34,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487704/,3,Suninen Teemu,Lehtinen Jarmo,Ford Fiesta WRC
+258,4,2,26. 1. 06:37,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479207/,18,Katsuta Takamoto,Barritt Daniel,Toyota Yaris WRC
+259,4,3,26. 1. 06:40,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465688/,69,Rovanperä Kalle,Halttunen Jonne,Toyota Yaris WRC
+260,4,4,26. 1. 06:43,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487703/,4,Lappi Esapekka,Ferm Janne,Ford Fiesta WRC
+261,4,5,26. 1. 06:46,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465689/,9,Loeb Sébastien,Elena Daniel,Hyundai i20 Coupe WRC
+262,4,6,26. 1. 06:49,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465681/,11,Neuville Thierry,Gilsoul Nicolas,Hyundai i20 Coupe WRC
+263,4,7,26. 1. 06:52,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465684/,17,Ogier Sébastien,Ingrassia Julien,Toyota Yaris WRC
+264,4,8,26. 1. 06:55,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2465687/,33,Evans Elfyn,Martin Scott,Toyota Yaris WRC
+265,4,9,26. 1. 06:58,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500964/,40,Jocius Deividas,Varža Mindaugas,Ford Fiesta WRC
+266,4,10,26. 1. 07:01,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487689/,27,Camilli Eric,Buresi François-Xavier,Citroën C3 R5
+267,4,11,26. 1. 07:04,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494756/,20,Østberg Mads,Eriksen Torstein,Citroën C3 R5
+268,4,12,26. 1. 07:07,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487691/,28,Ciamin Nicolas,Roche Yannick,Citroën C3 R5
+269,4,13,26. 1. 07:10,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487687/,22,Veiby Ole Christian,Andersson Jonas,Hyundai i20 R5
+270,4,14,26. 1. 07:11,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2480209/,26,Bonato Yoann,Boulloud Benjamin,Citroën C3 R5
+271,4,15,26. 1. 07:12,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479223/,31,Rossel Yohan,Fulcrand Benoît,Citroën C3 R5
+272,4,16,26. 1. 07:13,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2483718/,30,Munster Grégoire,Louka Louis,Škoda Fabia R5
+273,4,17,26. 1. 07:14,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2495205/,23,Fourmaux Adrien,Jamoul Renaud,Ford Fiesta Rally2
+274,4,18,26. 1. 07:15,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479220/,21,Gryazin Nikolay,Fedorov Yaroslav,Hyundai i20 R5
+275,4,19,26. 1. 07:16,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498360/,24,Yates Rhys,Morgan James,Ford Fiesta Rally2
+276,4,20,26. 1. 07:17,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479216/,29,"""Pedro""",Baldaccini Emanuele,Ford Fiesta Rally2
+277,4,21,26. 1. 07:18,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2483135/,37,Brazzoli Enrico,Barone Maurizio,Škoda Fabia R5
+278,4,22,26. 1. 07:19,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2487706/,36,Díaz-Aboitiz Miguel,Sanjuan de Eusebio Diego,Škoda Fabia R5
+279,4,23,26. 1. 07:22,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481124/,42,Burri Olivier,Levratti Anderson,Volkswagen Polo GTI R5
+280,4,24,26. 1. 07:23,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494146/,54,Astier Raphaël,Vauclare Frédéric,Fiat MR 500X R4
+281,4,25,26. 1. 07:24,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2478175/,41,Solberg Oliver,Johnston Aaron,Volkswagen Polo GTI R5
+282,4,26,26. 1. 07:25,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2479211/,48,Miele Mauro,Beltrame Luca,Škoda Fabia R5
+283,4,27,26. 1. 07:26,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498373/,53,Ganguet Christophe,Frison Emmanuel,Ford Fiesta R5
+284,4,28,26. 1. 07:27,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2486699/,43,Gino Alessandro,Fappani Danilo,Škoda Fabia Rally2 evo
+285,4,29,26. 1. 07:28,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500973/,68,Johnston Sean,Kihurani Alexander,Peugeot 208 R2
+286,4,30,26. 1. 07:29,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498461/,46,Boland Eamonn,"""MJ""",Ford Fiesta R5
+287,4,31,26. 1. 07:30,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2484652/,47,Latil Nicolas,Roche Romain,Volkswagen Polo GTI R5
+288,4,32,26. 1. 07:31,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494755/,77,Dolce Renaud,Giroud Quentin,Peugeot 208 R2
+289,4,33,26. 1. 07:32,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481123/,62,Vuistiner Ismaël,Kummer Florine,Renault Clio RS R3T
+290,4,34,26. 1. 07:33,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498370/,64,Caradec Jérémy,Amoros Cédric,Renault Clio R3
+291,4,35,26. 1. 07:34,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498451/,56,Pierrat Bertrand,Chevalier Aurélia,Volkswagen Polo GTI R5
+292,4,36,26. 1. 07:35,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494121/,85,Cartier Victor,Margaillan Mathilde,Ford Fiesta R2T
+293,4,37,26. 1. 07:36,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494453/,63,Carminati Boris,Lacruz Marine,Renault Clio RS R3T
+294,4,38,26. 1. 07:37,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500975/,50,Arengi Bentivoglio Fabrizio,Bosi Massimiliano,Škoda Fabia R5
+295,4,39,26. 1. 07:38,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498576/,70,Ribaudo Tony,Degrange Julien,Peugeot 208 R2
+296,4,40,26. 1. 07:39,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494479/,95,Boisseranc Mickaël,Comte-Rolland Chloé,Ford Fiesta R2T National
+297,4,41,26. 1. 07:40,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498455/,49,Vossen Henk,Berkhof Erwin,Ford Fiesta R5
+298,4,42,26. 1. 07:41,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481122/,73,Althaus Sacha,Zbinden Lisiane,Peugeot 208 R2
+299,4,43,26. 1. 07:42,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494455/,74,Pavlidis Nikos,Harryman Allan,Peugeot 208 R2
+300,4,44,26. 1. 07:43,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481117/,52,Dionisio Ermanno,Grimaldi Fabio,Dacia Sandero R4
+301,4,45,26. 1. 07:44,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500966/,90,Gatti Jean-Pierre,Belleville René,Peugeot 208 R2
+302,4,46,26. 1. 07:45,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498750/,51,Prosdocimo Alessandro,Zanet Marsha Loredana,Peugeot 208 R2
+303,4,47,26. 1. 07:46,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2484644/,94,Garcin Christopher,Nicoulau Florian,Ford Fiesta R1T19
+304,4,48,26. 1. 07:47,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481115/,75,Rota Rémy,Escartefigue Jules,Peugeot 208 R2
+305,4,49,26. 1. 07:48,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494632/,66,Vialle Lilian,Ghirardello Manuel,Renault Clio R3
+306,4,50,26. 1. 07:49,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494464/,81,Jaussaud Laure,Trinquier-Escartefigue Julie,Peugeot 208 R2
+307,4,51,26. 1. 07:50,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500969/,83,Lefebvre Thibault,Barnier Patricia,Peugeot 208 R2
+308,4,52,26. 1. 07:51,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498691/,96,Desbordes Richard,Desbordes Steven,Citroën DS3 R1
+309,4,53,26. 1. 07:52,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481113/,76,Eouzan Pascal,Eouzan Pascale,Peugeot 208 R2
+310,4,54,26. 1. 07:53,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2481114/,79,Ducreux Michel,Raoult Anthony,Peugeot 208 R2
+311,4,55,26. 1. 07:54,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500971/,82,László Zoltán,Begala Tamás,Ford Fiesta R2T19
+312,4,56,26. 1. 07:55,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494646/,89,Michellier Gilles,Richard Christophe,Peugeot 208 R2
+313,4,57,26. 1. 07:56,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498444/,58,Lemaire Martin,Barboni Philippe,Citroën DS3 R3T
+314,4,58,26. 1. 07:57,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2494635/,100,Duhamel Benjamin,Szys Solenne,Renault Twingo RS R1
+315,4,59,26. 1. 07:58,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2500967/,87,Covi Carlo,Lorigiola Michela,Ford Fiesta R2T19
+316,4,60,26. 1. 07:59,/entryinfo/59972-rallye-automobile-monte-carlo-2020/2498443/,91,Martin Baptiste,Troin Julie,Renault Twingo RS R1
