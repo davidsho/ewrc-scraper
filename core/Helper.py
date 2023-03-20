@@ -2,6 +2,9 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
+import sys
+sys.setrecursionlimit(10000)
+
 class Helper:
     '''
     Class containing helper functions to scrape the ewrc website
@@ -170,15 +173,6 @@ class Helper:
         final_entry["car"] = bolds[len(bolds) - 2].text.strip()
         return final_entry
     
-    def parseLegResult(self, leg, result):
-        final_entry = {}
-        bolds = result.find_all("td", class_="font-weight-bold")
-        print(bolds)
-        final_entry["finish"] = bolds[len(bolds) - 1].text.strip()
-        final_entry["entry_number"] = result.find("td", class_="legs-number").text.strip().replace("#","")
-        final_entry["time"] = [r for r in result.find("td", class_="font-weight-bold text-right").text.split(" ") if r not in ["","\n","\r\n"]][0].strip()
-        return final_entry
-    
     def getEventEntryList(self, event):
         '''Gets entry lists for all legs of an event
 
@@ -193,7 +187,6 @@ class Helper:
             List of entry orders for each leg of the event
         '''
         entryListURL = '/entries/' + event['url'].split('/')[2]
-        legURL = '/leg/' + event['url'].split('/')[2]
         leg = 1
         finalEntryList = []
         while True:
@@ -201,27 +194,72 @@ class Helper:
             soup = BeautifulSoup(r.content, 'html.parser')
             entryList = soup.find_all("tr")
             print(self.baseURL + entryListURL + '/?leg=' + str(leg))
+            print(entryList)
             entryList = [self.parseEntry(leg, index + 1, entry) for index, entry in enumerate(entryList)]
             entryList = [e for e in entryList if e is not None]
             if not entryList:
                 break
-            # r = self.s.get(self.baseURL + legURL + "/?leg=" + str(leg))
-            # soup = BeautifulSoup(r.content, 'html.parser')
-            # resultList = soup.find_all("tr")
-            # print(self.baseURL + legURL + '/?leg=' + str(leg), len(resultList))
-            # # print(resultList)
-            # resultList = [self.parseLegResult(leg, result) for result in resultList]
-            # resultList = [r for r in resultList if r is not None]
-            # print(len(resultList))
-            # print(resultList[0])
-            # for result in resultList:
-            #     # print(result["finish"], result["time"])
-            #     entryIndex = next(i for i, entry in enumerate(entryList) if entry["entry_number"] == result["entry_number"])
-            #     entryList[entryIndex]["finish"] = result["finish"]
-            #     entryList[entryIndex]["time"] = result["time"]
             finalEntryList.extend(entryList)
             leg += 1
         return finalEntryList
+    
+    def parseLegResult(self, leg, position, result):
+        '''Parse a leg result into a dictionary
+
+        Issues with this function as it appears the leg results pages are mal-formated
+
+        Parameters
+        ----------
+        leg : int
+            Leg number
+        position : int
+            The position in leg finishing order
+        result : bs4.element.Tag
+            The result html
+
+        Returns
+        -------
+        dict
+            Dictionary containing essential result details
+        '''
+        final_entry = {}
+        # bolds = result.find_all("td", class_="font-weight-bold")
+        # print(bolds)
+        final_entry["finish"] = position
+        # print(result.find(class_="legs-number").text)
+        print(result.prettify())
+        final_entry["entry_number"] = result.find(class_="legs-number").text.strip().replace("#","")
+        final_entry["time"] = [r for r in result.find("td", class_="font-weight-bold text-right").text.split(" ") if r not in ["","\n","\r\n"]][0].strip()
+        return final_entry
+    
+    def getLegResults(self, event):
+        '''Gets all leg results for an event
+
+        Parameters
+        ----------
+        event : dict
+            Event dictionary
+
+        Returns
+        -------
+        list
+            List of final results for each leg of event
+        '''
+        legURL = '/leg/' + event['url'].split('/')[2]
+        leg = 1
+        finalResultList = []
+        while True:
+            print(event, leg, self.baseURL + legURL + '/?leg=' + str(leg))
+            r = self.s.get(self.baseURL + legURL + '/?leg=' + str(leg))
+            soup = BeautifulSoup(r.content, 'html.parser')
+            resultList = soup.find("table", class_="results").find_all("tr")
+            resultList = [self.parseLegResult(leg, i+1, result) for i, result in enumerate(resultList)]
+            resultList = [r for r in resultList if r is not None]
+            if not resultList:
+                break
+            finalResultList.extend(resultList)
+            leg += 1
+        return finalResultList
 
     def generateEventCSV(self):
         '''Generates CSV from parseEvent dictionaries
@@ -277,3 +315,20 @@ class Helper:
             result = self.getEventEntryList(event)
             df = pd.DataFrame(result)
             df.to_csv("./data/entry-lists/"+str(event["season"])+"-"+str(event["round"])+"-entries.csv")
+
+    def generateLegResultCSV(self, events):
+        '''Generates a leg finishing order CSV for each event
+
+        ISSUES WITH THIS
+
+        Parameters
+        ----------
+        events : pandas.core.frame.DataFrame
+            Events CSV
+        '''
+        for _, event in events.iterrows():
+            print(event)
+            result = self.getLegResults(event)
+            df = pd.DataFrame(result)
+            df.to_csv("./data/leg-results/"+str(event["season"])+"-"+str(event["round"])+"-results.csv")
+            break
