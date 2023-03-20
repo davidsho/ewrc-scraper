@@ -170,6 +170,15 @@ class Helper:
         final_entry["car"] = bolds[len(bolds) - 2].text.strip()
         return final_entry
     
+    def parseLegResult(self, leg, result):
+        final_entry = {}
+        bolds = result.find_all("td", class_="font-weight-bold")
+        print(bolds)
+        final_entry["finish"] = bolds[len(bolds) - 1].text.strip()
+        final_entry["entry_number"] = result.find("td", class_="legs-number").text.strip().replace("#","")
+        final_entry["time"] = [r for r in result.find("td", class_="font-weight-bold text-right").text.split(" ") if r not in ["","\n","\r\n"]][0].strip()
+        return final_entry
+    
     def getEventEntryList(self, event):
         '''Gets entry lists for all legs of an event
 
@@ -184,6 +193,7 @@ class Helper:
             List of entry orders for each leg of the event
         '''
         entryListURL = '/entries/' + event['url'].split('/')[2]
+        legURL = '/leg/' + event['url'].split('/')[2]
         leg = 1
         finalEntryList = []
         while True:
@@ -195,6 +205,20 @@ class Helper:
             entryList = [e for e in entryList if e is not None]
             if not entryList:
                 break
+            # r = self.s.get(self.baseURL + legURL + "/?leg=" + str(leg))
+            # soup = BeautifulSoup(r.content, 'html.parser')
+            # resultList = soup.find_all("tr")
+            # print(self.baseURL + legURL + '/?leg=' + str(leg), len(resultList))
+            # # print(resultList)
+            # resultList = [self.parseLegResult(leg, result) for result in resultList]
+            # resultList = [r for r in resultList if r is not None]
+            # print(len(resultList))
+            # print(resultList[0])
+            # for result in resultList:
+            #     # print(result["finish"], result["time"])
+            #     entryIndex = next(i for i, entry in enumerate(entryList) if entry["entry_number"] == result["entry_number"])
+            #     entryList[entryIndex]["finish"] = result["finish"]
+            #     entryList[entryIndex]["time"] = result["time"]
             finalEntryList.extend(entryList)
             leg += 1
         return finalEntryList
