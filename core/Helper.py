@@ -225,11 +225,13 @@ class Helper:
         final_entry = {}
         # bolds = result.find_all("td", class_="font-weight-bold")
         # print(bolds)
+        final_entry["leg"] = leg
         final_entry["finish"] = position
         # print(result.find(class_="legs-number").text)
-        print(result.prettify())
-        final_entry["entry_number"] = result.find(class_="legs-number").text.strip().replace("#","")
-        final_entry["time"] = [r for r in result.find("td", class_="font-weight-bold text-right").text.split(" ") if r not in ["","\n","\r\n"]][0].strip()
+        # print(leg, position, result.prettify())
+        final_entry["entry_number"] = result.find(class_="legs-number").text.strip().replace("#","").split(" ")[0]
+        # final_entry["time"] = [r for r in result.find("td", class_="font-weight-bold text-right").text.split(" ") if r not in ["","\n","\r\n"]][0].strip()
+        final_entry["time"] = list(result.find("td", class_="font-weight-bold text-right").children)[0].strip()
         return final_entry
     
     def getLegResults(self, event):
@@ -331,4 +333,3 @@ class Helper:
             result = self.getLegResults(event)
             df = pd.DataFrame(result)
             df.to_csv("./data/leg-results/"+str(event["season"])+"-"+str(event["round"])+"-results.csv")
-            break
