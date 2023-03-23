@@ -113,6 +113,7 @@ class Helper:
             final_result["url"] = url
             final_result["conditions"] = conditions
             final_result["entry_number"] = result.find("td", class_="final-results-number").text.strip().replace("#","")
+            # final_result["entry_number"] = result.find("td", class_=)
             final_result["driver"] = " ".join([e for e in entry[0].split(" ") if e not in ["","\n","\r\n"]])
             final_result["codriver"] = " ".join([e for e in entry[1].split(" ") if e not in ["","\n","\r\n"]])
             final_result["finish"] = result.find("td", class_="font-weight-bold text-left").text.replace(".","").strip()
