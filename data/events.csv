@@ -10,25 +10,25 @@ season,round,event_name,event_url,conditions
 2018,9,36. ADAC Rallye Deutschland 2018,/final/44263-adac-rallye-deutschland-2018/,asphalt
 2018,10,11. Rally Turkey Marmaris 2018,/final/44264-rally-turkey-marmaris-2018/,gravel
 2018,11,74. Dayinsure Wales Rally GB 2018,/final/43469-dayinsure-wales-rally-gb-2018/,gravel
-2018,12,54. RallyRACC Catalunya - Costa Daurada 2018,/final/44265-rallyracc-catalunya-costa-daurada-2018/,asphalt-gravel-cancelled
+2018,12,54. RallyRACC Catalunya - Costa Daurada 2018,/final/44265-rallyracc-catalunya-costa-daurada-2018/,asphalt-gravel
 2018,13,27. Kennards Hire Rally Australia 2018,/final/44266-kennards-hire-rally-australia-2018/,gravel
-2019,1,87. Rallye Automobile Monte-Carlo 2019,/final/52398-rallye-automobile-monte-carlo-2019/,asphalt-snow-cancelled
+2019,1,87. Rallye Automobile Monte-Carlo 2019,/final/52398-rallye-automobile-monte-carlo-2019/,asphalt-snow
 2019,2,67. Rally Sweden 2019,/final/53052-rally-sweden-2019/,snow-ice
 2019,3,16. Rally Guanajuato Mexico 2019,/final/54450-rally-guanajuato-mexico-2019/,gravel
 2019,4,62. CORSICA Linea Tour de Corse 2019,/final/54464-corsica-linea-tour-de-corse-2019/,asphalt
-2019,5,39. XION Rally Argentina 2019,/final/54465-xion-rally-argentina-2019/,gravel-cancelled
+2019,5,39. XION Rally Argentina 2019,/final/54465-xion-rally-argentina-2019/,gravel
 2019,6,1. Copec Rally Chile 2019,/final/54463-copec-rally-chile-2019/,gravel
-2019,7,53. Vodafone Rally de Portugal 2019,/final/54466-vodafone-rally-de-portugal-2019/,gravel-cancelled
+2019,7,53. Vodafone Rally de Portugal 2019,/final/54466-vodafone-rally-de-portugal-2019/,gravel
 2019,8,16. Rally Italia Sardegna 2019,/final/54467-rally-italia-sardegna-2019/,gravel
 2019,9,69. Neste Rally Finland 2019,/final/54468-neste-rally-finland-2019/,gravel
 2019,10,37. ADAC Rallye Deutschland 2019,/final/54469-adac-rallye-deutschland-2019/,asphalt
 2019,11,12. Rally Turkey Marmaris 2019,/final/54470-rally-turkey-marmaris-2019/,gravel
-2019,12,75. Wales Rally GB 2019,/final/54471-wales-rally-gb-2019/,gravel-cancelled
+2019,12,75. Wales Rally GB 2019,/final/54471-wales-rally-gb-2019/,gravel
 2019,13,55. RallyRACC Catalunya - Costa Daurada 2019,/final/54472-rallyracc-catalunya-costa-daurada-2019/,asphalt-gravel
 2019,14,28. Kennards Hire Rally Australia 2019,/final/54473-kennards-hire-rally-australia-2019/,gravel
 2020,1,88. Rallye Automobile Monte-Carlo 2020,/final/59972-rallye-automobile-monte-carlo-2020/,asphalt-snow
-2020,2,68. Rally Sweden 2020,/final/60140-rally-sweden-2020/,snow-ice-cancelled
-2020,3,17. Rally Guanajuato México 2020,/final/60429-rally-guanajuato-mexico-2020/,gravel-cancelled
+2020,2,68. Rally Sweden 2020,/final/60140-rally-sweden-2020/,snow-ice
+2020,3,17. Rally Guanajuato México 2020,/final/60429-rally-guanajuato-mexico-2020/,gravel
 2020,4,2. Copec Rally Chile 2020,/final/60430-copec-rally-chile-2020/,gravel
 2020,5,Speedagro Rally Argentina 2020,/final/60431-speedagro-rally-argentina-2020/,gravel
 2020,6,Vodafone Rally de Portugal 2020,/final/60432-vodafone-rally-de-portugal-2020/,gravel
@@ -40,10 +40,10 @@ season,round,event_name,event_url,conditions
 2020,12,17. Rally Italia Sardegna 2020,/final/60433-rally-italia-sardegna-2020/,gravel
 2020,13,38. ADAC Rallye Deutschland 2020,/final/60438-adac-rallye-deutschland-2020/,asphalt
 2020,14,76. Wales Rally GB 2020,/final/60439-wales-rally-gb-2020/,gravel
-2020,15,56. Renties Ypres Rally Belgium 2020,/final/60503-renties-ypres-rally-belgium-2020/,asphalt
-2020,16,Rally Japan 2020,/final/60440-rally-japan-2020/,asphalt
-2020,17,ACI Rally Monza 2020,/final/66881-aci-rally-monza-2020/,asphalt-cancelled
-2021,1,89. Rallye Automobile Monte-Carlo 2021,/final/41079-rallye-automobile-monte-carlo-2021/,asphalt-snow-cancelled
+2020,15,Rally Japan 2020,/final/60440-rally-japan-2020/,asphalt
+2020,16,56. Renties Ypres Rally Belgium 2020,/final/60503-renties-ypres-rally-belgium-2020/,asphalt
+2020,17,ACI Rally Monza 2020,/final/66881-aci-rally-monza-2020/,asphalt
+2021,1,89. Rallye Automobile Monte-Carlo 2021,/final/41079-rallye-automobile-monte-carlo-2021/,asphalt-snow
 2021,2,Rally Sweden 2021,/final/67773-rally-sweden-2021/,snow-ice
 2021,3,Arctic Rally Finland Powered by CapitalBox 2021,/final/69715-arctic-rally-finland-powered-by-capitalbox-2021/,snow-ice
 2021,4,Croatia Rally 2021,/final/67214-croatia-rally-2021/,asphalt
@@ -51,7 +51,7 @@ season,round,event_name,event_url,conditions
 2021,6,18. Rally Italia Sardegna 2021,/final/68112-rally-italia-sardegna-2021/,gravel
 2021,7,69. Safari Rally Kenya 2021,/final/68113-safari-rally-kenya-2021/,gravel
 2021,8,11. Rally Estonia 2021,/final/68114-rally-estonia-2021/,gravel
-2021,9,57. Renties Ypres Rally Belgium 2021,/final/69179-renties-ypres-rally-belgium-2021/,asphalt-cancelled
+2021,9,57. Renties Ypres Rally Belgium 2021,/final/69179-renties-ypres-rally-belgium-2021/,asphalt
 2021,10,Rally UK 2021,/final/68116-rally-uk-2021/,gravel
 2021,11,Copec Rally Chile 2021,/final/68117-copec-rally-chile-2021/,gravel
 2021,12,65. EKO Acropolis Rally of Gods 2021,/final/71264-eko-acropolis-rally-of-gods-2021/,gravel
@@ -60,21 +60,21 @@ season,round,event_name,event_url,conditions
 2021,15,FORUM8 Rally Japan 2021,/final/68119-forum8-rally-japan-2021/,asphalt
 2021,16,FORUM8 ACI Rally Monza 2021,/final/72918-forum8-aci-rally-monza-2021/,asphalt
 2022,1,90. Rallye Automobile Monte-Carlo 2022,/final/72281-rallye-automobile-monte-carlo-2022/,asphalt-snow
-2022,2,69. Rally Sweden 2022,/final/72282-rally-sweden-2022/,snow-ice-cancelled
-2022,3,Croatia Rally 2022,/final/73359-croatia-rally-2022/,asphalt-cancelled
+2022,2,69. Rally Sweden 2022,/final/72282-rally-sweden-2022/,snow-ice
+2022,3,Croatia Rally 2022,/final/73359-croatia-rally-2022/,asphalt
 2022,4,55. Vodafone Rally de Portugal 2022,/final/73360-vodafone-rally-de-portugal-2022/,gravel
-2022,5,19. Rally Italia Sardegna 2022,/final/73361-rally-italia-sardegna-2022/,gravel-cancelled
+2022,5,19. Rally Italia Sardegna 2022,/final/73361-rally-italia-sardegna-2022/,gravel
 2022,6,70. Safari Rally Kenya 2022,/final/73362-safari-rally-kenya-2022/,gravel
 2022,7,12. Rally Estonia 2022,/final/73363-rally-estonia-2022/,gravel
-2022,8,71. Secto Rally Finland 2022,/final/73364-secto-rally-finland-2022/,gravel-cancelled
+2022,8,71. Secto Rally Finland 2022,/final/73364-secto-rally-finland-2022/,gravel
 2022,9,58. Ardeca Ypres Rally Belgium 2022,/final/73805-ardeca-ypres-rally-belgium-2022/,asphalt
 2022,10,66. EKO Acropolis Rally Greece 2022,/final/73366-eko-acropolis-rally-greece-2022/,gravel
 2022,11,Repco Rally New Zealand 2022,/final/73367-repco-rally-new-zealand-2022/,gravel
 2022,12,57. RallyRACC Catalunya - Costa Daurada 2022,/final/73368-rallyracc-catalunya-costa-daurada-2022/,asphalt
-2022,13,FORUM8 Rally Japan 2022,/final/73369-forum8-rally-japan-2022/,asphalt-cancelled
+2022,13,FORUM8 Rally Japan 2022,/final/73369-forum8-rally-japan-2022/,asphalt
 2023,1,91. Rallye Automobile Monte-Carlo 2023,/final/77787-rallye-automobile-monte-carlo-2023/,asphalt-snow
 2023,2,70. Rally Sweden 2023,/final/79247-rally-sweden-2023/,snow-ice
-2023,3,19. Rally Guanajuato México 2023,/final/80236-rally-guanajuato-mexico-2023/,gravel-cancelled
+2023,3,19. Rally Guanajuato México 2023,/final/80236-rally-guanajuato-mexico-2023/,gravel
 2023,4,Croatia Rally 2023,/final/80237-croatia-rally-2023/,asphalt
 2023,5,56. Vodafone Rally de Portugal 2023,/final/76758-vodafone-rally-de-portugal-2023/,gravel
 2023,6,20. Rally Italia Sardegna 2023,/final/80238-rally-italia-sardegna-2023/,gravel

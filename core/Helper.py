@@ -57,7 +57,7 @@ class Helper:
         title = event.find("a")
         name = title.text
         url = title['href']
-        details = "".join(e for e in event.find("span").text.split('•')[1].replace("km","") if e.isalpha() or e == '-')
+        details = "".join(e for e in event.find("span").text.split('•')[1].replace("km","") if e.isalpha() or e == '-').replace('-cancelled','')
         return {"season":season,"round":round+1,"event_name":name,"event_url":url,"conditions":details}
 
     def getSeason(self, season):
