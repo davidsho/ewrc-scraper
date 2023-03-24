@@ -1,6 +1,8 @@
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
+import time
+import datetime
 
 import sys
 sys.setrecursionlimit(10000)
@@ -55,8 +57,8 @@ class Helper:
         title = event.find("a")
         name = title.text
         url = title['href']
-        details = "".join(e for e in event.find("span").text.split('•')[1].replace("km","") if e.isalpha() or e == '-').split("-")
-        return {"season":season,"round":round+1,"name":name,"url":url,"conditions":details}
+        details = "".join(e for e in event.find("span").text.split('•')[1].replace("km","") if e.isalpha() or e == '-')
+        return {"season":season,"round":round+1,"event_name":name,"event_url":url,"conditions":details}
 
     def getSeason(self, season):
         '''Gets all events in a season
@@ -110,17 +112,20 @@ class Helper:
             final_result["season"] = season
             final_result["round"] = round
             final_result["event_name"] = event_name
-            final_result["url"] = url
+            final_result["event_url"] = url
             final_result["conditions"] = conditions
-            final_result["entry_number"] = result.find("td", class_="final-results-number").text.strip().replace("#","")
+            # final_result["entry_number"] = result.find("td", class_="final-results-number").text.strip().replace("#","")
+            final_result["entry_number"] = list(result.find("td", class_="final-results-number").children)[0].strip().replace("#","")
             # final_result["entry_number"] = result.find("td", class_=)
             final_result["driver"] = " ".join([e for e in entry[0].split(" ") if e not in ["","\n","\r\n"]])
             final_result["codriver"] = " ".join([e for e in entry[1].split(" ") if e not in ["","\n","\r\n"]])
-            final_result["finish"] = result.find("td", class_="font-weight-bold text-left").text.replace(".","").strip()
+            final_result["final_finish"] = result.find("td", class_="font-weight-bold text-left").text.replace(".","").strip()
             car = result.find("td", class_="final-results-car").children
             car = [c for c in car if c]
             final_result["car"] = car[0].strip()
-            final_result["time"] = [r for r in result.find("td", class_="final-results-times").text.split(" ") if r not in ["","\n","\r\n"]][0].strip()
+            # final_result["time"] = [r for r in result.find("td", class_="final-results-times").text.split(" ") if r not in ["","\n","\r\n"]][0].strip()
+            t = time.strptime(list(result.find("td", class_="final-results-times").children)[0].strip(), '%H:%M:%S.%f')
+            final_result["final_time"] = datetime.timedelta(hours=t.tm_hour, minutes=t.tm_min, seconds=t.tm_sec).total_seconds()
             return final_result
         except:
             pass
@@ -138,12 +143,12 @@ class Helper:
         list
             List of parseResult dictionaries
         '''
-        r = self.s.get(self.baseURL + event['url'])
+        r = self.s.get(self.baseURL + event['event_url'])
         soup = BeautifulSoup(r.content, 'html.parser')
         results = soup.find_all("tr")
-        return [self.parseResult(result, event["season"], event["round"], event["name"], event["url"], event["conditions"]) for result in results]
+        return [self.parseResult(result, event["season"], event["round"], event["event_name"], event["event_url"], event["conditions"]) for result in results]
     
-    def parseEntry(self, leg, startNumber, entry):
+    def parseEntry(self, season, round, leg, startNumber, entry):
         '''Parses each entry in an entry list to dict
 
         Parameters
@@ -164,10 +169,12 @@ class Helper:
         entry_name = [e for e in entry_name if e.name != "span" and e != '\n']
         bolds = entry.find_all("td", class_="font-weight-bold")
         final_entry = {}
+        final_entry["season"] = season
+        final_entry["round"] = round
         final_entry["leg"] = leg
         final_entry["start_number"] = startNumber
         final_entry["start_time"] = bolds[len(bolds) - 1].text.strip()
-        final_entry["url"] = entry.find("a")['href']
+        final_entry["entry_url"] = entry.find("a")['href']
         final_entry["entry_number"] = entry.find("td", class_="final-results-number").text.strip().replace("#","")
         final_entry["driver"] = " ".join([e for e in entry_name[0].split(" ") if e not in ["","\n","\r\n"]])
         final_entry["codriver"] = " ".join([e for e in entry_name[1].split(" ") if e not in ["","\n","\r\n"]])
@@ -187,7 +194,7 @@ class Helper:
         list
             List of entry orders for each leg of the event
         '''
-        entryListURL = '/entries/' + event['url'].split('/')[2]
+        entryListURL = '/entries/' + event['event_url'].split('/')[2]
         leg = 1
         finalEntryList = []
         while True:
@@ -195,16 +202,17 @@ class Helper:
             soup = BeautifulSoup(r.content, 'html.parser')
             entryList = soup.find_all("tr")
             print(self.baseURL + entryListURL + '/?leg=' + str(leg))
-            print(entryList)
-            entryList = [self.parseEntry(leg, index + 1, entry) for index, entry in enumerate(entryList)]
+            # print(entryList)
+            entryList = [self.parseEntry(event["season"], event["round"], leg, index + 1, entry) for index, entry in enumerate(entryList)]
             entryList = [e for e in entryList if e is not None]
             if not entryList:
                 break
+            # print(entryList)
             finalEntryList.extend(entryList)
             leg += 1
         return finalEntryList
     
-    def parseLegResult(self, leg, position, result):
+    def parseLegResult(self, season, round, leg, position, result):
         '''Parse a leg result into a dictionary
 
         Issues with this function as it appears the leg results pages are mal-formated
@@ -226,13 +234,21 @@ class Helper:
         final_entry = {}
         # bolds = result.find_all("td", class_="font-weight-bold")
         # print(bolds)
+        final_entry["season"] = season
+        final_entry["round"] = round
         final_entry["leg"] = leg
-        final_entry["finish"] = position
+        final_entry["leg_finish"] = position
         # print(result.find(class_="legs-number").text)
         # print(leg, position, result.prettify())
         final_entry["entry_number"] = result.find(class_="legs-number").text.strip().replace("#","").split(" ")[0]
         # final_entry["time"] = [r for r in result.find("td", class_="font-weight-bold text-right").text.split(" ") if r not in ["","\n","\r\n"]][0].strip()
-        final_entry["time"] = list(result.find("td", class_="font-weight-bold text-right").children)[0].strip()
+        # final_entry["leg_time"] = list(result.find("td", class_="font-weight-bold text-right").children)[0].strip()
+        try:
+            t = time.strptime(list(result.find("td", class_="font-weight-bold text-right").children)[0].strip(), '%H:%M:%S.%f')
+            final_entry["leg_time"] = datetime.timedelta(hours=t.tm_hour, minutes=t.tm_min, seconds=t.tm_sec).total_seconds()
+        except:
+            t = time.strptime(list(result.find("td", class_="font-weight-bold text-right").children)[0].strip(), '%M:%S.%f')
+            final_entry["leg_time"] = datetime.timedelta(minutes=t.tm_min, seconds=t.tm_sec).total_seconds()
         return final_entry
     
     def getLegResults(self, event):
@@ -248,7 +264,7 @@ class Helper:
         list
             List of final results for each leg of event
         '''
-        legURL = '/leg/' + event['url'].split('/')[2]
+        legURL = '/leg/' + event['event_url'].split('/')[2]
         leg = 1
         finalResultList = []
         while True:
@@ -256,7 +272,7 @@ class Helper:
             r = self.s.get(self.baseURL + legURL + '/?leg=' + str(leg))
             soup = BeautifulSoup(r.content, 'html.parser')
             resultList = soup.find("table", class_="results").find_all("tr")
-            resultList = [self.parseLegResult(leg, i+1, result) for i, result in enumerate(resultList)]
+            resultList = [self.parseLegResult(event["season"], event["round"], leg, i+1, result) for i, result in enumerate(resultList)]
             resultList = [r for r in resultList if r is not None]
             if not resultList:
                 break
@@ -273,11 +289,11 @@ class Helper:
             List of parseEvent dictionaries
         '''
         events = []
-        for i in range(2000,2025):
+        for i in range(2018,2025):
             season = self.getSeason(i)
             events.extend(season)
         df = pd.DataFrame(events)
-        df.to_csv("./data/events.csv")
+        df.to_csv("./data/events.csv", index=False)
         return events
 
     def generateResultCSV(self, events):
@@ -301,7 +317,7 @@ class Helper:
         results = [i for i in results if i is not None]
         print(results)
         df = pd.DataFrame(results)
-        df.to_csv("./data/results.csv")
+        df.to_csv("./data/results.csv", index=False)
         return results
     
     def generateEntryListCSV(self, events):
@@ -313,11 +329,15 @@ class Helper:
             Events CSV
         
         '''
+        results = []
         for index, event in events.iterrows():
             print(event)
             result = self.getEventEntryList(event)
-            df = pd.DataFrame(result)
-            df.to_csv("./data/entry-lists/"+str(event["season"])+"-"+str(event["round"])+"-entries.csv")
+            results.extend(result)
+        results = [i for i in results if i is not None]
+        df = pd.DataFrame(results)
+        # df.to_csv("./data/entry-lists/"+str(event["season"])+"-"+str(event["round"])+"-entries.csv")
+        df.to_csv("./data/entries.csv", index=False)
 
     def generateLegResultCSV(self, events):
         '''Generates a leg finishing order CSV for each event
@@ -329,8 +349,11 @@ class Helper:
         events : pandas.core.frame.DataFrame
             Events CSV
         '''
+        results = []
         for _, event in events.iterrows():
             print(event)
             result = self.getLegResults(event)
-            df = pd.DataFrame(result)
-            df.to_csv("./data/leg-results/"+str(event["season"])+"-"+str(event["round"])+"-results.csv")
+            results.extend(result)
+        df = pd.DataFrame(results)
+        # df.to_csv("./data/leg-results/"+str(event["season"])+"-"+str(event["round"])+"-results.csv")
+        df.to_csv("./data/legresults.csv", index=False)
