@@ -114,6 +114,10 @@ class Helper:
             final_result["event_name"] = event_name
             final_result["event_url"] = url
             final_result["conditions"] = conditions
+            try:
+                final_result["tyre"] = result.find("img", alt='tyre')["src"]
+            except:
+                final_result["tyre"] = None
             # final_result["entry_number"] = result.find("td", class_="final-results-number").text.strip().replace("#","")
             final_result["entry_number"] = list(result.find("td", class_="final-results-number").children)[0].strip().replace("#","")
             # final_result["entry_number"] = result.find("td", class_=)

@@ -9,7 +9,7 @@ PASSWORD = os.getenv("PASSWORD")
 
 helper = Helper()
 helper.login(USERNAME,PASSWORD)
-helper.generateEventCSV()
+# helper.generateEventCSV()
 events = pd.read_csv("./data/events.csv")
 helper.generateResultCSV(events)
 # helper.generateEntryListCSV(events)
