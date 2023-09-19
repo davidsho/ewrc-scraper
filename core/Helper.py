@@ -57,8 +57,9 @@ class Helper:
         title = event.find("a")
         name = title.text
         url = title['href']
+        location = event.find("div", class_="event-info").text.split('•')[0].split(',')[-1].strip()
         details = "".join(e for e in event.find("span").text.split('•')[1].replace("km","") if e.isalpha() or e == '-').replace('-cancelled','')
-        return {"season":season,"round":round+1,"event_name":name,"event_url":url,"conditions":details}
+        return {"season":season,"round":round+1,"event_name":name,"event_url":url,"location":location,"conditions":details}
 
     def getSeason(self, season):
         '''Gets all events in a season
@@ -80,7 +81,7 @@ class Helper:
         events = [self.parseEvent(season, i, event) for i, event in enumerate(events)]
         return events
 
-    def parseResult(self, result, season, round, event_name, url, conditions):
+    def parseResult(self, result, season, round, event_name, url, location, conditions):
         '''Parses result HTML to find essential details
 
         Parameters
@@ -113,11 +114,13 @@ class Helper:
             final_result["round"] = round
             final_result["event_name"] = event_name
             final_result["event_url"] = url
+            final_result["location"] = location
             final_result["conditions"] = conditions
             try:
                 final_result["tyre"] = result.find("img", alt='tyre')["src"]
             except:
                 final_result["tyre"] = None
+            final_result["group"] = result.find("td", class_="final-results-cat").text.strip()
             # final_result["entry_number"] = result.find("td", class_="final-results-number").text.strip().replace("#","")
             final_result["entry_number"] = list(result.find("td", class_="final-results-number").children)[0].strip().replace("#","")
             # final_result["entry_number"] = result.find("td", class_=)
@@ -150,7 +153,7 @@ class Helper:
         r = self.s.get(self.baseURL + event['event_url'])
         soup = BeautifulSoup(r.content, 'html.parser')
         results = soup.find_all("tr")
-        return [self.parseResult(result, event["season"], event["round"], event["event_name"], event["event_url"], event["conditions"]) for result in results]
+        return [self.parseResult(result, event["season"], event["round"], event["event_name"], event["event_url"], event["location"], event["conditions"]) for result in results]
     
     def parseEntry(self, season, round, leg, startNumber, entry):
         '''Parses each entry in an entry list to dict
@@ -293,7 +296,7 @@ class Helper:
             List of parseEvent dictionaries
         '''
         events = []
-        for i in range(2018,2025):
+        for i in range(2000,2025):
             season = self.getSeason(i)
             events.extend(season)
         df = pd.DataFrame(events)
@@ -361,3 +364,53 @@ class Helper:
         df = pd.DataFrame(results)
         # df.to_csv("./data/leg-results/"+str(event["season"])+"-"+str(event["round"])+"-results.csv")
         df.to_csv("./data/legresults.csv", index=False)
+    
+    def parseUpcoming(self, upcoming_entry, conditions):
+        '''Parses an upcoming event entry list
+
+        Parameters
+        ----------
+        upcoming : bs4.element.Tag
+            The upcoming event entries html
+
+        Returns
+        -------
+        dict
+            Dictionary containing essential upcoming event details
+        '''
+        upcoming = {}
+        upcoming["conditions"] = conditions
+        upcoming["entry_number"] = upcoming_entry.find("td", class_="text-left font-weight-bold text-primary").text.strip().replace("#","")
+        people = upcoming_entry.find_all("div", class_="startlist-driver")
+        upcoming["driver"] = people[0].text.strip()
+        upcoming["codriver"] = people[1].text.strip()
+        upcoming["car"] = list(upcoming_entry.find("td", class_="font-weight-bold lh-130").children)[0].strip()
+        print(upcoming_entry.find("img", alt="tyre"))
+        try:
+            upcoming["tyre"] = upcoming_entry.find("img", alt="tyre")["src"]
+        except:
+            upcoming["tyre"] = None
+        upcoming["group"] = upcoming_entry.find("td", class_="fs-091").text.strip()
+        return upcoming
+
+    def generateUpcomingCSV(self, url, conditions):
+        '''Generates CSV from parseUpcoming dictionaries
+
+        Parameters
+        ----------
+        url : str
+            URL of upcoming events page
+
+        Returns
+        -------
+        list
+            List of parseUpcoming dictionaries
+        '''
+        r = self.s.get(self.baseURL + url)
+        soup = BeautifulSoup(r.content, 'html.parser')
+        entries = soup.find_all("tr")
+        upcoming = [self.parseUpcoming(u, conditions) for u in entries]
+        upcoming = [u for u in upcoming if u is not None]
+        df = pd.DataFrame(upcoming)
+        df.to_csv("./data/upcoming.csv", index=False)
+        return upcoming

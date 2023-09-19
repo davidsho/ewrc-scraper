@@ -1,87 +1,339 @@
-season,round,event_name,event_url,conditions
-2018,1,86. Rallye Automobile Monte-Carlo 2018,/final/42870-rallye-automobile-monte-carlo-2018/,asphalt-snow
-2018,2,66. Rally Sweden 2018,/final/42875-rally-sweden-2018/,snow-ice
-2018,3,15. Rally Guanajuato Mexico 2018,/final/44257-rally-guanajuato-mexico-2018/,gravel
-2018,4,61. CORSICA Linea Tour de Corse 2018,/final/44258-corsica-linea-tour-de-corse-2018/,asphalt
-2018,5,38. YPF Rally Argentina 2018,/final/44259-ypf-rally-argentina-2018/,gravel
-2018,6,52. Vodafone Rally de Portugal 2018,/final/44260-vodafone-rally-de-portugal-2018/,gravel
-2018,7,15. Rally Italia Sardegna 2018,/final/44261-rally-italia-sardegna-2018/,gravel
-2018,8,68. Neste Rally Finland 2018,/final/44262-neste-rally-finland-2018/,gravel
-2018,9,36. ADAC Rallye Deutschland 2018,/final/44263-adac-rallye-deutschland-2018/,asphalt
-2018,10,11. Rally Turkey Marmaris 2018,/final/44264-rally-turkey-marmaris-2018/,gravel
-2018,11,74. Dayinsure Wales Rally GB 2018,/final/43469-dayinsure-wales-rally-gb-2018/,gravel
-2018,12,54. RallyRACC Catalunya - Costa Daurada 2018,/final/44265-rallyracc-catalunya-costa-daurada-2018/,asphalt-gravel
-2018,13,27. Kennards Hire Rally Australia 2018,/final/44266-kennards-hire-rally-australia-2018/,gravel
-2019,1,87. Rallye Automobile Monte-Carlo 2019,/final/52398-rallye-automobile-monte-carlo-2019/,asphalt-snow
-2019,2,67. Rally Sweden 2019,/final/53052-rally-sweden-2019/,snow-ice
-2019,3,16. Rally Guanajuato Mexico 2019,/final/54450-rally-guanajuato-mexico-2019/,gravel
-2019,4,62. CORSICA Linea Tour de Corse 2019,/final/54464-corsica-linea-tour-de-corse-2019/,asphalt
-2019,5,39. XION Rally Argentina 2019,/final/54465-xion-rally-argentina-2019/,gravel
-2019,6,1. Copec Rally Chile 2019,/final/54463-copec-rally-chile-2019/,gravel
-2019,7,53. Vodafone Rally de Portugal 2019,/final/54466-vodafone-rally-de-portugal-2019/,gravel
-2019,8,16. Rally Italia Sardegna 2019,/final/54467-rally-italia-sardegna-2019/,gravel
-2019,9,69. Neste Rally Finland 2019,/final/54468-neste-rally-finland-2019/,gravel
-2019,10,37. ADAC Rallye Deutschland 2019,/final/54469-adac-rallye-deutschland-2019/,asphalt
-2019,11,12. Rally Turkey Marmaris 2019,/final/54470-rally-turkey-marmaris-2019/,gravel
-2019,12,75. Wales Rally GB 2019,/final/54471-wales-rally-gb-2019/,gravel
-2019,13,55. RallyRACC Catalunya - Costa Daurada 2019,/final/54472-rallyracc-catalunya-costa-daurada-2019/,asphalt-gravel
-2019,14,28. Kennards Hire Rally Australia 2019,/final/54473-kennards-hire-rally-australia-2019/,gravel
-2020,1,88. Rallye Automobile Monte-Carlo 2020,/final/59972-rallye-automobile-monte-carlo-2020/,asphalt-snow
-2020,2,68. Rally Sweden 2020,/final/60140-rally-sweden-2020/,snow-ice
-2020,3,17. Rally Guanajuato México 2020,/final/60429-rally-guanajuato-mexico-2020/,gravel
-2020,4,2. Copec Rally Chile 2020,/final/60430-copec-rally-chile-2020/,gravel
-2020,5,Speedagro Rally Argentina 2020,/final/60431-speedagro-rally-argentina-2020/,gravel
-2020,6,Vodafone Rally de Portugal 2020,/final/60432-vodafone-rally-de-portugal-2020/,gravel
-2020,7,68. Safari Rally Kenya 2020,/final/60434-safari-rally-kenya-2020/,gravel
-2020,8,Neste Rally Finland 2020,/final/60435-neste-rally-finland-2020/,gravel
-2020,9,Rally New Zealand 2020,/final/60437-rally-new-zealand-2020/,gravel
-2020,10,10. Rally Estonia 2020,/final/61497-rally-estonia-2020/,gravel
-2020,11,13. Rally Turkey Marmaris 2020,/final/60436-rally-turkey-marmaris-2020/,gravel
-2020,12,17. Rally Italia Sardegna 2020,/final/60433-rally-italia-sardegna-2020/,gravel
-2020,13,38. ADAC Rallye Deutschland 2020,/final/60438-adac-rallye-deutschland-2020/,asphalt
-2020,14,76. Wales Rally GB 2020,/final/60439-wales-rally-gb-2020/,gravel
-2020,15,Rally Japan 2020,/final/60440-rally-japan-2020/,asphalt
-2020,16,56. Renties Ypres Rally Belgium 2020,/final/60503-renties-ypres-rally-belgium-2020/,asphalt
-2020,17,ACI Rally Monza 2020,/final/66881-aci-rally-monza-2020/,asphalt
-2021,1,89. Rallye Automobile Monte-Carlo 2021,/final/41079-rallye-automobile-monte-carlo-2021/,asphalt-snow
-2021,2,Rally Sweden 2021,/final/67773-rally-sweden-2021/,snow-ice
-2021,3,Arctic Rally Finland Powered by CapitalBox 2021,/final/69715-arctic-rally-finland-powered-by-capitalbox-2021/,snow-ice
-2021,4,Croatia Rally 2021,/final/67214-croatia-rally-2021/,asphalt
-2021,5,54. Vodafone Rally de Portugal 2021,/final/68111-vodafone-rally-de-portugal-2021/,gravel
-2021,6,18. Rally Italia Sardegna 2021,/final/68112-rally-italia-sardegna-2021/,gravel
-2021,7,69. Safari Rally Kenya 2021,/final/68113-safari-rally-kenya-2021/,gravel
-2021,8,11. Rally Estonia 2021,/final/68114-rally-estonia-2021/,gravel
-2021,9,57. Renties Ypres Rally Belgium 2021,/final/69179-renties-ypres-rally-belgium-2021/,asphalt
-2021,10,Rally UK 2021,/final/68116-rally-uk-2021/,gravel
-2021,11,Copec Rally Chile 2021,/final/68117-copec-rally-chile-2021/,gravel
-2021,12,65. EKO Acropolis Rally of Gods 2021,/final/71264-eko-acropolis-rally-of-gods-2021/,gravel
-2021,13,70. Secto Rally Finland 2021,/final/68115-secto-rally-finland-2021/,gravel
-2021,14,56. RallyRACC Catalunya - Costa Daurada 2021,/final/68118-rallyracc-catalunya-costa-daurada-2021/,asphalt
-2021,15,FORUM8 Rally Japan 2021,/final/68119-forum8-rally-japan-2021/,asphalt
-2021,16,FORUM8 ACI Rally Monza 2021,/final/72918-forum8-aci-rally-monza-2021/,asphalt
-2022,1,90. Rallye Automobile Monte-Carlo 2022,/final/72281-rallye-automobile-monte-carlo-2022/,asphalt-snow
-2022,2,69. Rally Sweden 2022,/final/72282-rally-sweden-2022/,snow-ice
-2022,3,Croatia Rally 2022,/final/73359-croatia-rally-2022/,asphalt
-2022,4,55. Vodafone Rally de Portugal 2022,/final/73360-vodafone-rally-de-portugal-2022/,gravel
-2022,5,19. Rally Italia Sardegna 2022,/final/73361-rally-italia-sardegna-2022/,gravel
-2022,6,70. Safari Rally Kenya 2022,/final/73362-safari-rally-kenya-2022/,gravel
-2022,7,12. Rally Estonia 2022,/final/73363-rally-estonia-2022/,gravel
-2022,8,71. Secto Rally Finland 2022,/final/73364-secto-rally-finland-2022/,gravel
-2022,9,58. Ardeca Ypres Rally Belgium 2022,/final/73805-ardeca-ypres-rally-belgium-2022/,asphalt
-2022,10,66. EKO Acropolis Rally Greece 2022,/final/73366-eko-acropolis-rally-greece-2022/,gravel
-2022,11,Repco Rally New Zealand 2022,/final/73367-repco-rally-new-zealand-2022/,gravel
-2022,12,57. RallyRACC Catalunya - Costa Daurada 2022,/final/73368-rallyracc-catalunya-costa-daurada-2022/,asphalt
-2022,13,FORUM8 Rally Japan 2022,/final/73369-forum8-rally-japan-2022/,asphalt
-2023,1,91. Rallye Automobile Monte-Carlo 2023,/final/77787-rallye-automobile-monte-carlo-2023/,asphalt-snow
-2023,2,70. Rally Sweden 2023,/final/79247-rally-sweden-2023/,snow-ice
-2023,3,19. Rally Guanajuato México 2023,/final/80236-rally-guanajuato-mexico-2023/,gravel
-2023,4,Croatia Rally 2023,/final/80237-croatia-rally-2023/,asphalt
-2023,5,56. Vodafone Rally de Portugal 2023,/final/76758-vodafone-rally-de-portugal-2023/,gravel
-2023,6,20. Rally Italia Sardegna 2023,/final/80238-rally-italia-sardegna-2023/,gravel
-2023,7,71. Safari Rally Kenya 2023,/final/80239-safari-rally-kenya-2023/,gravel
-2023,8,13. Rally Estonia 2023,/final/80240-rally-estonia-2023/,gravel
-2023,9,72. Secto Rally Finland 2023,/final/80241-secto-rally-finland-2023/,gravel
-2023,10,67. EKO Acropolis Rally Greece 2023,/final/80243-eko-acropolis-rally-greece-2023/,gravel
-2023,11,Copec Rally Chile 2023,/final/80242-copec-rally-chile-2023/,gravel
-2023,12,1. Central Europe Rally 2023,/final/80244-central-europe-rally-2023/,asphalt
-2023,13,FORUM8 Rally Japan 2023,/final/80245-forum8-rally-japan-2023/,asphalt
+season,round,event_name,event_url,location,conditions
+2000,1,68. Rallye Automobile Monte-Carlo 2000,/final/108-rallye-automobile-monte-carlo-2000/,Monte Carlo,asphalt-snow
+2000,2,49. International Swedish Rally 2000,/final/109-international-swedish-rally-2000/,Karlstad,snow-ice
+2000,3,48. Sameer Safari Rally Kenya 2000,/final/110-sameer-safari-rally-kenya-2000/,Nairobi,gravel
+2000,4,34. TAP Rallye de Portugal 2000,/final/111-tap-rallye-de-portugal-2000/,Matosinhos,gravel
+2000,5,36. Rallye Catalunya - Costa Brava - Rallye de España 2000,/final/112-rallye-catalunya-costa-brava-rallye-de-espana-2000/,Lloret de Mar,asphalt
+2000,6,20. Rally Argentina 2000,/final/113-rally-argentina-2000/,Córdoba,gravel
+2000,7,47. Acropolis Rally 2000,/final/114-acropolis-rally-2000/,Itea,gravel
+2000,8,31. Propecia Rally New Zealand 2000,/final/115-propecia-rally-new-zealand-2000/,Manukau,gravel
+2000,9,50. Neste Rally Finland 2000,/final/116-neste-rally-finland-2000/,Jyväskylä,gravel
+2000,10,28. Cyprus Rally 2000,/final/117-cyprus-rally-2000/,7. 9. – 10. 9. 2000,gravel
+2000,11,44. V-Rally Tour de Corse - Rallye de France 2000,/final/118-v-rally-tour-de-corse-rallye-de-france-2000/,Ajaccio,asphalt
+2000,12,42. Rallye Sanremo - Rallye d'Italia 2000,/final/119-rallye-sanremo-rallye-ditalia-2000/,Sanremo,asphalt
+2000,13,13. Telstra Rally Australia 2000,/final/120-telstra-rally-australia-2000/,Perth,gravel
+2000,14,56. Network Q Rally of Great Britain 2000,/final/121-network-q-rally-of-great-britain-2000/,Cardiff,gravel
+2001,1,69. Rallye Automobile Monte-Carlo 2001,/final/94-rallye-automobile-monte-carlo-2001/,Monaco,asphalt-snow
+2001,2,50. International Swedish Rally 2001,/final/95-international-swedish-rally-2001/,Karlstad,snow-ice
+2001,3,35. TAP Rallye de Portugal 2001,/final/96-tap-rallye-de-portugal-2001/,8. 3. – 11. 3. 2001,gravel
+2001,4,37. Rallye Catalunya - Costa Brava - Rallye de España 2001,/final/97-rallye-catalunya-costa-brava-rallye-de-espana-2001/,Lloret de Mar,asphalt
+2001,5,21. Rally Argentina 2001,/final/98-rally-argentina-2001/,3. 5. – 6. 5. 2001,gravel
+2001,6,29. Cyprus Rally 2001,/final/99-cyprus-rally-2001/,31. 5. – 3. 6. 2001,gravel
+2001,7,48. Acropolis Rally 2001,/final/100-acropolis-rally-2001/,Athens,gravel
+2001,8,49. Safari Rally Kenya 2001,/final/101-safari-rally-kenya-2001/,19. 7. – 22. 7. 2001,gravel
+2001,9,51. Neste Rally Finland 2001,/final/102-neste-rally-finland-2001/,Jyväskylä,gravel
+2001,10,32. Propecia Rally New Zealand 2001,/final/103-propecia-rally-new-zealand-2001/,20. 9. – 23. 9. 2001,gravel
+2001,11,43. Rallye Sanremo - Rallye d'Italia 2001,/final/104-rallye-sanremo-rallye-ditalia-2001/,Sanremo,asphalt
+2001,12,45. Tour de Corse - Rallye de France 2001,/final/105-tour-de-corse-rallye-de-france-2001/,Ajaccio,asphalt
+2001,13,14. Telstra Rally Australia 2001,/final/106-telstra-rally-australia-2001/,Perth,gravel
+2001,14,57. Network Q Rally of Great Britain 2001,/final/107-network-q-rally-of-great-britain-2001/,Cardiff,gravel
+2002,1,70. Rallye Automobile Monte-Carlo 2002,/final/79-rallye-automobile-monte-carlo-2002/,Monaco,asphalt-snow
+2002,2,51. Uddeholm Swedish Rally 2002,/final/80-uddeholm-swedish-rally-2002/,Karlstad,snow-ice
+2002,3,46. Tour de Corse - Rallye de France 2002,/final/81-tour-de-corse-rallye-de-france-2002/,Ajaccio,asphalt
+2002,4,38. Rally Catalunya - Costa Brava - Rally de España 2002,/final/82-rally-catalunya-costa-brava-rally-de-espana-2002/,Lloret de Mar,asphalt
+2002,5,30. Cyprus Rally 2002,/final/83-cyprus-rally-2002/,19. 4. – 21. 4. 2002,gravel
+2002,6,22. Rally Argentina 2002,/final/84-rally-argentina-2002/,16. 5. – 19. 5. 2002,gravel
+2002,7,49. Acropolis Rally 2002,/final/85-acropolis-rally-2002/,Lamia,gravel
+2002,8,50. Inmarsat Safari Rally 2002,/final/86-inmarsat-safari-rally-2002/,Nairobi,gravel
+2002,9,52. Neste Rally Finland 2002,/final/87-neste-rally-finland-2002/,Jyväskylä,gravel
+2002,10,21. ADAC Rallye Deutschland 2002,/final/88-adac-rallye-deutschland-2002/,Trier,asphalt
+2002,11,44. Rallye Sanremo - Rallye d'Italia 2002,/final/89-rallye-sanremo-rallye-ditalia-2002/,Sanremo,asphalt
+2002,12,33. Propecia Rally New Zealand 2002,/final/91-propecia-rally-new-zealand-2002/,3. 10. – 6. 10. 2002,gravel
+2002,13,15. Telstra Rally Australia 2002,/final/92-telstra-rally-australia-2002/,Perth,gravel
+2002,14,58. Network Q Rally of Great Britain 2002,/final/93-network-q-rally-of-great-britain-2002/,Cardiff,gravel
+2003,1,71. Rallye Automobile Monte-Carlo 2003,/final/65-rallye-automobile-monte-carlo-2003/,Monaco,asphalt-snow
+2003,2,52. Uddeholm Swedish Rally 2003,/final/66-uddeholm-swedish-rally-2003/,Karlstad,snow-ice
+2003,3,4. Rally of Turkey 2003,/final/67-rally-of-turkey-2003/,Kemer,gravel
+2003,4,34. Propecia Rally New Zealand 2003,/final/68-propecia-rally-new-zealand-2003/,Auckland,gravel
+2003,5,23. YPF Rally Argentina 2003,/final/69-ypf-rally-argentina-2003/,8. 5. – 11. 5. 2003,gravel
+2003,6,50. Golden Acropolis Rally 2003,/final/70-golden-acropolis-rally-2003/,Lamia,gravel
+2003,7,31. Cyprus Rally 2003,/final/71-cyprus-rally-2003/,Lemesos,gravel
+2003,8,22. ADAC Rallye Deutschland 2003,/final/72-adac-rallye-deutschland-2003/,Trier,asphalt
+2003,9,53. Neste Rally Finland 2003,/final/73-neste-rally-finland-2003/,Jyväskylä,gravel
+2003,10,16. Telstra Rally Australia 2003,/final/74-telstra-rally-australia-2003/,Perth,gravel
+2003,11,45. Rallye Sanremo - Rallye d'Italia 2003,/final/75-rallye-sanremo-rallye-ditalia-2003/,Sanremo,asphalt
+2003,12,47. Tour de Corse - Rallye de France 2003,/final/76-tour-de-corse-rallye-de-france-2003/,Ajaccio,asphalt
+2003,13,39. Rally Catalunya - Costa Brava - Rally de España 2003,/final/77-rally-catalunya-costa-brava-rally-de-espana-2003/,Lloret de Mar,asphalt
+2003,14,59. Wales Rally GB 2003,/final/78-wales-rally-gb-2003/,Cardiff,gravel
+2004,1,72. Rallye Automobile Monte-Carlo 2004,/final/49-rallye-automobile-monte-carlo-2004/,Monaco,asphalt-snow
+2004,2,53. Uddeholm Swedish Rally 2004,/final/50-uddeholm-swedish-rally-2004/,Karlstad,snow-ice
+2004,3,1. Corona Rally Mexico 2004,/final/51-corona-rally-mexico-2004/,León,gravel
+2004,4,35. Propecia Rally New Zealand 2004,/final/52-propecia-rally-new-zealand-2004/,Auckland,gravel
+2004,5,32. Cyprus Rally 2004,/final/53-cyprus-rally-2004/,Lemesos,gravel
+2004,6,51. Acropolis Rally of Greece 2004,/final/54-acropolis-rally-of-greece-2004/,Lamia,gravel
+2004,7,5. Rally of Turkey 2004,/final/55-rally-of-turkey-2004/,Kemer,gravel
+2004,8,24. CTI Movil Rally Argentina 2004,/final/56-cti-movil-rally-argentina-2004/,15. 7. – 18. 7. 2004,gravel
+2004,9,54. Neste Rally Finland 2004,/final/57-neste-rally-finland-2004/,Jyväskylä,gravel
+2004,10,23. OMV ADAC Rallye Deutschland 2004,/final/58-omv-adac-rallye-deutschland-2004/,Trier,asphalt
+2004,11,Rally Japan 2004,/final/59-rally-japan-2004/,Obihiro,gravel
+2004,12,60. Wales Rally GB 2004,/final/60-wales-rally-gb-2004/,Cardiff,gravel
+2004,13,1. Supermag Rally Italia Sardinia 2004,/final/61-supermag-rally-italia-sardinia-2004/,Olbia,gravel
+2004,14,48. Tour de Corse - Rallye de France 2004,/final/62-tour-de-corse-rallye-de-france-2004/,Ajaccio,asphalt
+2004,15,40. Rally Catalunya - Costa Brava - Rally de España 2004,/final/63-rally-catalunya-costa-brava-rally-de-espana-2004/,Lloret de Mar,asphalt
+2004,16,17. Telstra Rally Australia 2004,/final/64-telstra-rally-australia-2004/,Perth,gravel
+2005,1,73. Rallye Automobile Monte-Carlo 2005,/final/33-rallye-automobile-monte-carlo-2005/,Monaco,asphalt-snow
+2005,2,54. Uddeholm Swedish Rally 2005,/final/34-uddeholm-swedish-rally-2005/,Karlstad,snow-ice
+2005,3,2. Corona Rally Mexico 2005,/final/35-corona-rally-mexico-2005/,León,gravel
+2005,4,36. Propecia Rally New Zealand 2005,/final/36-propecia-rally-new-zealand-2005/,Auckland,gravel
+2005,5,2. Supermag Rally Italia Sardinia 2005,/final/37-supermag-rally-italia-sardinia-2005/,Olbia,gravel
+2005,6,33. Cyprus Rally 2005,/final/38-cyprus-rally-2005/,Lemesos,gravel
+2005,7,6. Rally of Turkey 2005,/final/39-rally-of-turkey-2005/,Kemer,gravel
+2005,8,52. Acropolis Rally of Greece 2005,/final/40-acropolis-rally-of-greece-2005/,Lamia,gravel
+2005,9,25. Rally Argentina 2005,/final/41-rally-argentina-2005/,14. 7. – 17. 7. 2005,gravel
+2005,10,55. Neste Rally Finland 2005,/final/42-neste-rally-finland-2005/,Jyväskylä,gravel
+2005,11,24. OMV ADAC Rallye Deutschland 2005,/final/43-omv-adac-rallye-deutschland-2005/,Trier,asphalt
+2005,12,61. Wales Rally GB 2005,/final/44-wales-rally-gb-2005/,Cardiff,gravel
+2005,13,Rally Japan 2005,/final/45-rally-japan-2005/,Obihiro,gravel
+2005,14,49. Tour de Corse - Rallye de France 2005,/final/46-tour-de-corse-rallye-de-france-2005/,Ajaccio,asphalt
+2005,15,41. RallyRACC Catalunya - Costa Daurada 2005,/final/47-rallyracc-catalunya-costa-daurada-2005/,Salou,asphalt
+2005,16,18. Telstra Rally Australia 2005,/final/48-telstra-rally-australia-2005/,Perth,gravel
+2006,1,74. Rallye Automobile Monte-Carlo 2006,/final/1-rallye-automobile-monte-carlo-2006/,Monaco,asphalt-snow
+2006,2,55. Uddeholm Swedish Rally 2006,/final/2-uddeholm-swedish-rally-2006/,Karlstad,snow-ice
+2006,3,3. Corona Rally Mexico 2006,/final/3-corona-rally-mexico-2006/,León,gravel
+2006,4,42. RallyRACC Catalunya - Costa Daurada 2006,/final/4-rallyracc-catalunya-costa-daurada-2006/,Salou,asphalt
+2006,5,50. Tour de Corse - Rallye de France 2006,/final/5-tour-de-corse-rallye-de-france-2006/,Ajaccio,asphalt
+2006,6,26. Rally Argentina 2006,/final/6-rally-argentina-2006/,Cordoba,gravel
+2006,7,3. Rally d'Italia Sardegna 2006,/final/7-rally-ditalia-sardegna-2006/,Olbia,gravel
+2006,8,53. BP Ultimate Acropolis Rally of Greece 2006,/final/8-bp-ultimate-acropolis-rally-of-greece-2006/,Athens - OAKA,gravel
+2006,9,25. OMV ADAC Rallye Deutschland 2006,/final/9-omv-adac-rallye-deutschland-2006/,Trier,asphalt
+2006,10,56. Neste Rally Finland 2006,/final/10-neste-rally-finland-2006/,Jyväskylä,gravel
+2006,11,Rally Japan 2006,/final/11-rally-japan-2006/,Obihiro,gravel
+2006,12,34. Cyprus Rally 2006,/final/12-cyprus-rally-2006/,Lemesos,gravel
+2006,13,7. Rally of Turkey 2006,/final/13-rally-of-turkey-2006/,Kemer,gravel
+2006,14,19. Telstra Rally Australia 2006,/final/14-telstra-rally-australia-2006/,Perth,gravel
+2006,15,37. Propecia Rally New Zealand 2006,/final/15-propecia-rally-new-zealand-2006/,Hamilton,gravel
+2006,16,62. Wales Rally GB 2006,/final/16-wales-rally-gb-2006/,Cardiff,gravel
+2007,1,75. Rallye Automobile Monte-Carlo 2007,/final/17-rallye-automobile-monte-carlo-2007/,Valence - Monte Carlo,asphalt-snow
+2007,2,56. Uddeholm Swedish Rally 2007,/final/18-uddeholm-swedish-rally-2007/,Karlstad,snow-ice
+2007,3,Rally Norway 2007,/final/19-rally-norway-2007/,Hamar,snow-ice
+2007,4,4. Corona Rally Mexico 2007,/final/20-corona-rally-mexico-2007/,León,gravel
+2007,5,41. Vodafone Rally de Portugal 2007,/final/21-vodafone-rally-de-portugal-2007/,Faro,gravel
+2007,6,27. Rally Argentina 2007,/final/22-rally-argentina-2007/,Villa Carlos Paz,gravel
+2007,7,4. Rally d'Italia Sardegna 2007,/final/23-rally-ditalia-sardegna-2007/,Olbia,gravel
+2007,8,54. BP Ultimate Acropolis Rally of Greece 2007,/final/24-bp-ultimate-acropolis-rally-of-greece-2007/,Markopoulo,gravel
+2007,9,57. Neste Oil Rally Finland 2007,/final/25-neste-oil-rally-finland-2007/,Jyväskylä,gravel
+2007,10,26. ADAC Rallye Deutschland 2007,/final/26-adac-rallye-deutschland-2007/,Trier,asphalt
+2007,11,38. Rally New Zealand 2007,/final/27-rally-new-zealand-2007/,Hamilton,gravel
+2007,12,43. RallyRACC Catalunya - Costa Daurada 2007,/final/28-rallyracc-catalunya-costa-daurada-2007/,Salou,asphalt
+2007,13,51. Tour de Corse - Rallye de France 2007,/final/29-tour-de-corse-rallye-de-france-2007/,Ajaccio,asphalt
+2007,14,Rally Japan 2007,/final/30-rally-japan-2007/,Obihiro,gravel
+2007,15,3. Rally Ireland 2007,/final/31-rally-ireland-2007/,Sligo,asphalt
+2007,16,63. Wales Rally GB 2007,/final/32-wales-rally-gb-2007/,Cardiff,gravel
+2008,1,76. Rallye Automobile Monte-Carlo 2008,/final/149-rallye-automobile-monte-carlo-2008/,Valence - Monte Carlo,asphalt-snow
+2008,2,57. Uddeholm Swedish Rally 2008,/final/150-uddeholm-swedish-rally-2008/,Karlstad,snow-ice
+2008,3,5. Corona Rally Mexico 2008,/final/151-corona-rally-mexico-2008/,León,gravel
+2008,4,28. Rally Argentina 2008,/final/152-rally-argentina-2008/,27. 3. – 30. 3. 2008,gravel
+2008,5,1. Jordan Rally 2008,/final/153-jordan-rally-2008/,24. 4. – 27. 4. 2008,gravel
+2008,6,5. Rally d'Italia Sardegna 2008,/final/154-rally-ditalia-sardegna-2008/,Olbia,gravel
+2008,7,55. BP Ultimate Acropolis Rally of Greece 2008,/final/155-bp-ultimate-acropolis-rally-of-greece-2008/,29. 5. – 1. 6. 2008,gravel
+2008,8,9. Rally of Turkey 2008,/final/156-rally-of-turkey-2008/,Kemer,gravel
+2008,9,58. Neste Oil Rally Finland 2008,/final/157-neste-oil-rally-finland-2008/,Jyväskylä,gravel
+2008,10,27. ADAC Rallye Deutschland 2008,/final/158-adac-rallye-deutschland-2008/,Trier,asphalt
+2008,11,39. Repco Rally New Zealand 2008,/final/159-repco-rally-new-zealand-2008/,Hamilton,gravel
+2008,12,44. RallyRACC Catalunya - Costa Daurada 2008,/final/160-rallyracc-catalunya-costa-daurada-2008/,Salou,asphalt
+2008,13,52. Tour de Corse - Rallye de France 2008,/final/161-tour-de-corse-rallye-de-france-2008/,Ajaccio,asphalt
+2008,14,Pioneer Carrozzeria Rally Japan 2008,/final/162-pioneer-carrozzeria-rally-japan-2008/,Sapporo,gravel
+2008,15,64. Wales Rally GB 2008,/final/163-wales-rally-gb-2008/,Cardiff,gravel
+2009,1,4. Rally Ireland 2009,/final/388-rally-ireland-2009/,Sligo,asphalt
+2009,2,Rally Norway 2009,/final/389-rally-norway-2009/,Hamar,snow-ice
+2009,3,38. FxPro Cyprus Rally 2009,/final/390-fxpro-cyprus-rally-2009/,12. 3. – 15. 3. 2009,asphalt-gravel
+2009,4,43. Vodafone Rally de Portugal 2009,/final/391-vodafone-rally-de-portugal-2009/,Faro,gravel
+2009,5,29. Rally Argentina 2009,/final/392-rally-argentina-2009/,23. 4. – 26. 4. 2009,gravel
+2009,6,6. Rally d'Italia Sardegna 2009,/final/393-rally-ditalia-sardegna-2009/,Olbia,gravel
+2009,7,56. Acropolis Rally of Greece 2009,/final/394-acropolis-rally-of-greece-2009/,Loutraki,gravel
+2009,8,66. Orlen Platinum Rally Poland - Rajd Polski 2009,/final/395-orlen-platinum-rally-poland-rajd-polski-2009/,Mikołajki,gravel
+2009,9,59. Neste Oil Rally Finland 2009,/final/396-neste-oil-rally-finland-2009/,Jyväskylä,gravel
+2009,10,20. Repco Rally Australia 2009,/final/397-repco-rally-australia-2009/,Kingscliff,gravel
+2009,11,45. RallyRACC Catalunya - Costa Daurada 2009,/final/398-rallyracc-catalunya-costa-daurada-2009/,Salou,asphalt
+2009,12,65. Rally of Great Britain 2009,/final/399-rally-of-great-britain-2009/,Cardiff,gravel
+2010,1,58. Rally Sweden 2010,/final/573-rally-sweden-2010/,Karlstad,snow-ice
+2010,2,7. Rally Mexico 2010,/final/574-rally-mexico-2010/,León,gravel
+2010,3,2. Jordan Rally WRC 2010,/final/575-jordan-rally-wrc-2010/,31. 3. – 3. 4. 2010,gravel
+2010,4,10. Rally of Turkey 2010,/final/576-rally-of-turkey-2010/,Istanbul,asphalt-gravel
+2010,5,40. Rally  New Zealand 2010,/final/577-rally-new-zealand-2010/,Auckland,gravel
+2010,6,44. Vodafone Rally de Portugal 2010,/final/578-vodafone-rally-de-portugal-2010/,Faro,gravel
+2010,7,41. Rally Bulgaria 2010,/final/579-rally-bulgaria-2010/,Borovets,asphalt
+2010,8,60. Neste Oil Rally Finland 2010,/final/580-neste-oil-rally-finland-2010/,Jyväskylä,gravel
+2010,9,28. ADAC Rallye Deutschland 2010,/final/581-adac-rallye-deutschland-2010/,Trier,asphalt
+2010,10,Rally Japan 2010,/final/582-rally-japan-2010/,Sapporo,gravel
+2010,11,1. Rallye de France - Alsace 2010,/final/583-rallye-de-france-alsace-2010/,Strasbourg,asphalt
+2010,12,46. RallyRACC Catalunya - Costa Daurada 2010,/final/584-rallyracc-catalunya-costa-daurada-2010/,Salou,asphalt-gravel
+2010,13,66. Wales Rally GB 2010,/final/585-wales-rally-gb-2010/,Cardiff,gravel
+2011,1,59. Rally Sweden 2011,/final/2224-rally-sweden-2011/,Karlstad,snow-ice
+2011,2,8. Rally Guanajuato Mexico 2011,/final/2225-rally-guanajuato-mexico-2011/,León,gravel
+2011,3,45. Vodafone Rally de Portugal 2011,/final/2326-vodafone-rally-de-portugal-2011/,Faro,gravel
+2011,4,3. Jordan Rally WRC 2011,/final/2364-jordan-rally-wrc-2011/,14. 4. – 16. 4. 2011,gravel
+2011,5,8. Rally d'Italia Sardegna 2011,/final/2365-rally-ditalia-sardegna-2011/,Olbia,gravel
+2011,6,31. Rally Argentina 2011,/final/2366-rally-argentina-2011/,Villa Carlos Paz,gravel
+2011,7,57. Acropolis Rally 2011,/final/2367-acropolis-rally-2011/,Loutraki,gravel
+2011,8,61. Neste Oil Rally Finland 2011,/final/2368-neste-oil-rally-finland-2011/,Jyväskylä,gravel
+2011,9,29. ADAC Rallye Deutschland 2011,/final/2369-adac-rallye-deutschland-2011/,Trier,asphalt
+2011,10,21. Repco Rally Australia 2011,/final/2370-repco-rally-australia-2011/,Coffs Harbour,gravel
+2011,11,2. Rallye de France - Alsace 2011,/final/2371-rallye-de-france-alsace-2011/,Strasbourg,asphalt
+2011,12,47. RallyRACC Catalunya - Costa Daurada 2011,/final/2372-rallyracc-catalunya-costa-daurada-2011/,Salou,asphalt-gravel
+2011,13,67. Wales Rally GB 2011,/final/2373-wales-rally-gb-2011/,Cardiff,gravel
+2012,1,80. Rallye Automobile Monte-Carlo 2012,/final/3363-rallye-automobile-monte-carlo-2012/,Valence - Monte Carlo,asphalt-snow
+2012,2,60. Rally Sweden 2012,/final/3488-rally-sweden-2012/,Karlstad,snow-ice
+2012,3,9. Rally Guanajuato Mexico 2012,/final/3489-rally-guanajuato-mexico-2012/,León,gravel
+2012,4,46. Vodafone Rally de Portugal 2012,/final/3490-vodafone-rally-de-portugal-2012/,Faro,gravel
+2012,5,32. Philips Rally Argentina 2012,/final/3491-philips-rally-argentina-2012/,Córdoba - Villa Carlos Paz,gravel
+2012,6,58. Acropolis Rally 2012,/final/3492-acropolis-rally-2012/,Loutraki,gravel
+2012,7,42. Brother Rally New Zealand 2012,/final/3493-brother-rally-new-zealand-2012/,Auckland,gravel
+2012,8,62. Neste Oil Rally Finland 2012,/final/3494-neste-oil-rally-finland-2012/,Jyväskylä,gravel
+2012,9,30. ADAC Rallye Deutschland 2012,/final/3497-adac-rallye-deutschland-2012/,Trier,asphalt
+2012,10,68. Wales Rally GB 2012,/final/3498-wales-rally-gb-2012/,Cardiff,gravel
+2012,11,3. Rallye de France - Alsace 2012,/final/3499-rallye-de-france-alsace-2012/,Strasbourg,asphalt
+2012,12,9. Rally Italia Sardegna 2012,/final/3500-rally-italia-sardegna-2012/,Olbia,gravel
+2012,13,48. RallyRACC Catalunya - Costa Daurada 2012,/final/3502-rallyracc-catalunya-costa-daurada-2012/,Salou,asphalt-gravel
+2013,1,81. Rallye Automobile Monte-Carlo 2013,/final/5887-rallye-automobile-monte-carlo-2013/,Valence - Monte Carlo,asphalt-snow
+2013,2,61. Rally Sweden 2013,/final/6532-rally-sweden-2013/,Karlstad,snow-ice
+2013,3,10. Rally Guanajuato Mexico 2013,/final/6533-rally-guanajuato-mexico-2013/,León,gravel
+2013,4,47. Vodafone Rally de Portugal 2013,/final/6534-vodafone-rally-de-portugal-2013/,Faro,gravel
+2013,5,33. Philips LED Rally Argentina 2013,/final/6535-philips-led-rally-argentina-2013/,Córdoba - Villa Carlos Paz,gravel
+2013,6,59. Acropolis Rally 2013,/final/6536-acropolis-rally-2013/,Loutraki,gravel
+2013,7,10. Rally Italia Sardegna 2013,/final/6537-rally-italia-sardegna-2013/,Olbia,gravel
+2013,8,63. Neste Oil Rally Finland 2013,/final/6538-neste-oil-rally-finland-2013/,Jyväskylä,gravel
+2013,9,31. ADAC Rallye Deutschland 2013,/final/6539-adac-rallye-deutschland-2013/,Trier,asphalt
+2013,10,22. Coates Hire Rally Australia 2013,/final/6540-coates-hire-rally-australia-2013/,Coffs Harbour,gravel
+2013,11,4. Rallye de France - Alsace 2013,/final/6541-rallye-de-france-alsace-2013/,Strasbourg,asphalt
+2013,12,49. RallyRACC Catalunya - Costa Daurada 2013,/final/6542-rallyracc-catalunya-costa-daurada-2013/,Salou,asphalt-gravel
+2013,13,69. Wales Rally GB 2013,/final/6543-wales-rally-gb-2013/,Deeside,gravel-asphalt
+2014,1,82. Rallye Automobile Monte-Carlo 2014,/final/13442-rallye-automobile-monte-carlo-2014/,Gap - Monaco,asphalt-snow
+2014,2,62. Rally Sweden 2014,/final/13892-rally-sweden-2014/,Karlstad,snow-ice
+2014,3,11. Rally Guanajuato Mexico 2014,/final/13893-rally-guanajuato-mexico-2014/,León,gravel
+2014,4,48. Vodafone Rally de Portugal 2014,/final/13894-vodafone-rally-de-portugal-2014/,Faro,gravel
+2014,5,34. XION Rally Argentina 2014,/final/13895-xion-rally-argentina-2014/,Córdoba,gravel
+2014,6,11. Rally Italia Sardegna 2014,/final/13896-rally-italia-sardegna-2014/,Alghero,gravel
+2014,7,71. Lotos Rally Poland - Rajd Polski 2014,/final/13897-lotos-rally-poland-rajd-polski-2014/,Mikolajki,gravel
+2014,8,64. Neste Oil Rally Finland 2014,/final/13898-neste-oil-rally-finland-2014/,Jyväskylä,gravel
+2014,9,32. ADAC Rallye Deutschland 2014,/final/13899-adac-rallye-deutschland-2014/,Trier,asphalt
+2014,10,23. Coates Hire Rally Australia 2014,/final/13900-coates-hire-rally-australia-2014/,Coffs Harbour,gravel
+2014,11,5. Rallye de France - Alsace 2014,/final/13901-rallye-de-france-alsace-2014/,Strasbourg,asphalt
+2014,12,50. RallyRACC Catalunya - Costa Daurada 2014,/final/13902-rallyracc-catalunya-costa-daurada-2014/,Salou,asphalt-gravel
+2014,13,70. Wales Rally GB 2014,/final/13903-wales-rally-gb-2014/,Deeside,gravel
+2015,1,83. Rallye Automobile Monte-Carlo 2015,/final/18216-rallye-automobile-monte-carlo-2015/,Gap - Monaco,asphalt-snow
+2015,2,63. Rally Sweden 2015,/final/19120-rally-sweden-2015/,Karlstad,snow-ice
+2015,3,12. Rally Guanajuato Mexico 2015,/final/19121-rally-guanajuato-mexico-2015/,León,gravel
+2015,4,35. XION Rally Argentina 2015,/final/19122-xion-rally-argentina-2015/,Córdoba,gravel
+2015,5,49. Vodafone Rally de Portugal 2015,/final/19123-vodafone-rally-de-portugal-2015/,Matosinhos,gravel
+2015,6,12. Rally Italia Sardegna 2015,/final/19124-rally-italia-sardegna-2015/,Alghero,gravel
+2015,7,72. Lotos Rally Poland - Rajd Polski 2015,/final/19125-lotos-rally-poland-rajd-polski-2015/,Mikolajki,gravel
+2015,8,65. Neste Oil Rally Finland 2015,/final/19126-neste-oil-rally-finland-2015/,Jyväskylä,gravel
+2015,9,33. ADAC Rallye Deutschland 2015,/final/19127-adac-rallye-deutschland-2015/,Trier,asphalt
+2015,10,24. Coates Hire Rally Australia 2015,/final/19128-coates-hire-rally-australia-2015/,Coffs Harbour,gravel
+2015,11,58. Tour de Corse 2015,/final/19499-tour-de-corse-2015/,Ajaccio - Porto-Vecchio - Bastia,asphalt
+2015,12,51. RallyRACC Catalunya - Costa Daurada 2015,/final/19130-rallyracc-catalunya-costa-daurada-2015/,Salou,asphalt-gravel
+2015,13,71. Wales Rally GB 2015,/final/19132-wales-rally-gb-2015/,Deeside,gravel
+2016,1,84. Rallye Automobile Monte-Carlo 2016,/final/25982-rallye-automobile-monte-carlo-2016/,Gap - Monaco,asphalt-snow
+2016,2,64. Rally Sweden 2016,/final/26241-rally-sweden-2016/,Karlstad,snow-ice
+2016,3,13. Rally Guanajuato Mexico 2016,/final/27501-rally-guanajuato-mexico-2016/,León,gravel
+2016,4,36. YPF Rally Argentina 2016,/final/27493-ypf-rally-argentina-2016/,Córdoba,gravel
+2016,5,50. Vodafone Rally de Portugal 2016,/final/27503-vodafone-rally-de-portugal-2016/,Matosinhos,gravel
+2016,6,13. Rally Italia Sardegna 2016,/final/27500-rally-italia-sardegna-2016/,Alghero,gravel
+2016,7,73. PZM Rajd Polski - Rally Poland 2016,/final/27502-pzm-rajd-polski-rally-poland-2016/,Mikołajki,gravel
+2016,8,66. Neste Rally Finland 2016,/final/27496-neste-rally-finland-2016/,Jyväskylä,gravel
+2016,9,34. ADAC Rallye Deutschland 2016,/final/27498-adac-rallye-deutschland-2016/,Trier,asphalt
+2016,10,Rally China 2016,/final/27495-rally-china-2016/,Beijing,asphalt
+2016,11,59. Che Guevara Energy Drink Tour de Corse 2016,/final/27497-che-guevara-energy-drink-tour-de-corse-2016/,Ajaccio - Bastia - Porto-Vecchio,asphalt
+2016,12,52. RallyRACC Catalunya - Costa Daurada 2016,/final/27504-rallyracc-catalunya-costa-daurada-2016/,Salou,asphalt-gravel
+2016,13,72. Dayinsure Wales Rally GB 2016,/final/27499-dayinsure-wales-rally-gb-2016/,Deeside,gravel
+2016,14,25. Kennards Hire Rally Australia 2016,/final/27494-kennards-hire-rally-australia-2016/,Coffs Harbour,gravel
+2017,1,85. Rallye Automobile Monte-Carlo 2017,/final/35143-rallye-automobile-monte-carlo-2017/,Gap - Monaco,asphalt-snow
+2017,2,65. Rally Sweden 2017,/final/35751-rally-sweden-2017/,Torsby,snow-ice
+2017,3,14. Rally Guanajuato Mexico 2017,/final/36014-rally-guanajuato-mexico-2017/,León,gravel
+2017,4,60. Che Guevara Energy Drink Tour de Corse 2017,/final/36015-che-guevara-energy-drink-tour-de-corse-2017/,Porto-Vecchio,asphalt
+2017,5,37. YPF Rally Argentina 2017,/final/36016-ypf-rally-argentina-2017/,Villa Carlos Paz,gravel
+2017,6,51. Vodafone Rally de Portugal 2017,/final/36017-vodafone-rally-de-portugal-2017/,Matosinhos,gravel
+2017,7,14. Rally Italia Sardegna 2017,/final/36018-rally-italia-sardegna-2017/,Alghero,gravel
+2017,8,74. ORLEN Rally Poland 2017,/final/36431-orlen-rally-poland-2017/,Mikołajki,gravel
+2017,9,67. Neste Rally Finland 2017,/final/36019-neste-rally-finland-2017/,Jyväskylä,gravel
+2017,10,35. ADAC Rallye Deutschland 2017,/final/36020-adac-rallye-deutschland-2017/,Bostalsee,asphalt
+2017,11,53. RallyRACC Catalunya - Costa Daurada 2017,/final/36021-rallyracc-catalunya-costa-daurada-2017/,Salou,asphalt-gravel
+2017,12,73. Dayinsure Wales Rally GB 2017,/final/36022-dayinsure-wales-rally-gb-2017/,Deeside,gravel
+2017,13,26. Kennards Hire Rally Australia 2017,/final/36023-kennards-hire-rally-australia-2017/,Coffs Harbour,gravel
+2018,1,86. Rallye Automobile Monte-Carlo 2018,/final/42870-rallye-automobile-monte-carlo-2018/,Gap - Monaco,asphalt-snow
+2018,2,66. Rally Sweden 2018,/final/42875-rally-sweden-2018/,Torsby,snow-ice
+2018,3,15. Rally Guanajuato Mexico 2018,/final/44257-rally-guanajuato-mexico-2018/,León,gravel
+2018,4,61. CORSICA Linea Tour de Corse 2018,/final/44258-corsica-linea-tour-de-corse-2018/,Bastia - Ajaccio,asphalt
+2018,5,38. YPF Rally Argentina 2018,/final/44259-ypf-rally-argentina-2018/,Villa Carlos Paz,gravel
+2018,6,52. Vodafone Rally de Portugal 2018,/final/44260-vodafone-rally-de-portugal-2018/,Matosinhos,gravel
+2018,7,15. Rally Italia Sardegna 2018,/final/44261-rally-italia-sardegna-2018/,Alghero,gravel
+2018,8,68. Neste Rally Finland 2018,/final/44262-neste-rally-finland-2018/,Jyväskylä,gravel
+2018,9,36. ADAC Rallye Deutschland 2018,/final/44263-adac-rallye-deutschland-2018/,Bostalsee,asphalt
+2018,10,11. Rally Turkey Marmaris 2018,/final/44264-rally-turkey-marmaris-2018/,Marmaris,gravel
+2018,11,74. Dayinsure Wales Rally GB 2018,/final/43469-dayinsure-wales-rally-gb-2018/,Deeside,gravel
+2018,12,54. RallyRACC Catalunya - Costa Daurada 2018,/final/44265-rallyracc-catalunya-costa-daurada-2018/,Salou,asphalt-gravel
+2018,13,27. Kennards Hire Rally Australia 2018,/final/44266-kennards-hire-rally-australia-2018/,Coffs Harbour,gravel
+2019,1,87. Rallye Automobile Monte-Carlo 2019,/final/52398-rallye-automobile-monte-carlo-2019/,Gap - Monaco,asphalt-snow
+2019,2,67. Rally Sweden 2019,/final/53052-rally-sweden-2019/,Torsby,snow-ice
+2019,3,16. Rally Guanajuato Mexico 2019,/final/54450-rally-guanajuato-mexico-2019/,León,gravel
+2019,4,62. CORSICA Linea Tour de Corse 2019,/final/54464-corsica-linea-tour-de-corse-2019/,Calvi,asphalt
+2019,5,39. XION Rally Argentina 2019,/final/54465-xion-rally-argentina-2019/,Villa Carlos Paz,gravel
+2019,6,1. Copec Rally Chile 2019,/final/54463-copec-rally-chile-2019/,Concepción,gravel
+2019,7,53. Vodafone Rally de Portugal 2019,/final/54466-vodafone-rally-de-portugal-2019/,Matosinhos,gravel
+2019,8,16. Rally Italia Sardegna 2019,/final/54467-rally-italia-sardegna-2019/,Alghero,gravel
+2019,9,69. Neste Rally Finland 2019,/final/54468-neste-rally-finland-2019/,Jyväskylä,gravel
+2019,10,37. ADAC Rallye Deutschland 2019,/final/54469-adac-rallye-deutschland-2019/,Bostalsee,asphalt
+2019,11,12. Rally Turkey Marmaris 2019,/final/54470-rally-turkey-marmaris-2019/,Marmaris,gravel
+2019,12,75. Wales Rally GB 2019,/final/54471-wales-rally-gb-2019/,Llandudno,gravel
+2019,13,55. RallyRACC Catalunya - Costa Daurada 2019,/final/54472-rallyracc-catalunya-costa-daurada-2019/,Salou,asphalt-gravel
+2019,14,28. Kennards Hire Rally Australia 2019,/final/54473-kennards-hire-rally-australia-2019/,Coffs Harbour,gravel
+2020,1,88. Rallye Automobile Monte-Carlo 2020,/final/59972-rallye-automobile-monte-carlo-2020/,Gap - Monaco,asphalt-snow
+2020,2,68. Rally Sweden 2020,/final/60140-rally-sweden-2020/,Torsby,snow-ice
+2020,3,17. Rally Guanajuato México 2020,/final/60429-rally-guanajuato-mexico-2020/,León,gravel
+2020,4,2. Copec Rally Chile 2020,/final/60430-copec-rally-chile-2020/,16. 4. – 19. 4. 2020,gravel
+2020,5,Speedagro Rally Argentina 2020,/final/60431-speedagro-rally-argentina-2020/,Villa Carlos Paz,gravel
+2020,6,Vodafone Rally de Portugal 2020,/final/60432-vodafone-rally-de-portugal-2020/,Matosinhos,gravel
+2020,7,68. Safari Rally Kenya 2020,/final/60434-safari-rally-kenya-2020/,Naivasha,gravel
+2020,8,Neste Rally Finland 2020,/final/60435-neste-rally-finland-2020/,Jyväskylä,gravel
+2020,9,Rally New Zealand 2020,/final/60437-rally-new-zealand-2020/,3. 9. – 6. 9. 2020,gravel
+2020,10,10. Rally Estonia 2020,/final/61497-rally-estonia-2020/,Tartu,gravel
+2020,11,13. Rally Turkey Marmaris 2020,/final/60436-rally-turkey-marmaris-2020/,Marmaris,gravel
+2020,12,17. Rally Italia Sardegna 2020,/final/60433-rally-italia-sardegna-2020/,Alghero,gravel
+2020,13,38. ADAC Rallye Deutschland 2020,/final/60438-adac-rallye-deutschland-2020/,15. 10. – 18. 10. 2020,asphalt
+2020,14,76. Wales Rally GB 2020,/final/60439-wales-rally-gb-2020/,Deeside,gravel
+2020,15,56. Renties Ypres Rally Belgium 2020,/final/60503-renties-ypres-rally-belgium-2020/,Ypres,asphalt
+2020,16,Rally Japan 2020,/final/60440-rally-japan-2020/,19. 11. – 22. 11. 2020,asphalt
+2020,17,ACI Rally Monza 2020,/final/66881-aci-rally-monza-2020/,Autodromo Nazionale Monza,asphalt
+2021,1,89. Rallye Automobile Monte-Carlo 2021,/final/41079-rallye-automobile-monte-carlo-2021/,Gap - Monaco,asphalt-snow
+2021,2,Rally Sweden 2021,/final/67773-rally-sweden-2021/,Torsby,snow-ice
+2021,3,Arctic Rally Finland Powered by CapitalBox 2021,/final/69715-arctic-rally-finland-powered-by-capitalbox-2021/,Rovaniemi,snow-ice
+2021,4,Croatia Rally 2021,/final/67214-croatia-rally-2021/,Zagreb,asphalt
+2021,5,54. Vodafone Rally de Portugal 2021,/final/68111-vodafone-rally-de-portugal-2021/,Matosinhos,gravel
+2021,6,18. Rally Italia Sardegna 2021,/final/68112-rally-italia-sardegna-2021/,Olbia,gravel
+2021,7,69. Safari Rally Kenya 2021,/final/68113-safari-rally-kenya-2021/,Naivasha,gravel
+2021,8,11. Rally Estonia 2021,/final/68114-rally-estonia-2021/,Tartu,gravel
+2021,9,57. Renties Ypres Rally Belgium 2021,/final/69179-renties-ypres-rally-belgium-2021/,Ypres,asphalt
+2021,10,Rally UK 2021,/final/68116-rally-uk-2021/,19. 8. – 22. 8. 2021,gravel
+2021,11,Copec Rally Chile 2021,/final/68117-copec-rally-chile-2021/,9. 9. – 12. 9. 2021,gravel
+2021,12,65. EKO Acropolis Rally of Gods 2021,/final/71264-eko-acropolis-rally-of-gods-2021/,Lamia,gravel
+2021,13,70. Secto Rally Finland 2021,/final/68115-secto-rally-finland-2021/,Jyväskylä,gravel
+2021,14,56. RallyRACC Catalunya - Costa Daurada 2021,/final/68118-rallyracc-catalunya-costa-daurada-2021/,Salou,asphalt
+2021,15,FORUM8 Rally Japan 2021,/final/68119-forum8-rally-japan-2021/,11. 11. – 14. 11. 2021,asphalt
+2021,16,FORUM8 ACI Rally Monza 2021,/final/72918-forum8-aci-rally-monza-2021/,Autodromo Nazionale Monza,asphalt
+2022,1,90. Rallye Automobile Monte-Carlo 2022,/final/72281-rallye-automobile-monte-carlo-2022/,Monaco,asphalt-snow
+2022,2,69. Rally Sweden 2022,/final/72282-rally-sweden-2022/,Umeå,snow-ice
+2022,3,Croatia Rally 2022,/final/73359-croatia-rally-2022/,Zagreb,asphalt
+2022,4,55. Vodafone Rally de Portugal 2022,/final/73360-vodafone-rally-de-portugal-2022/,Matosinhos,gravel
+2022,5,19. Rally Italia Sardegna 2022,/final/73361-rally-italia-sardegna-2022/,Alghero,gravel
+2022,6,70. Safari Rally Kenya 2022,/final/73362-safari-rally-kenya-2022/,Naivasha,gravel
+2022,7,12. Rally Estonia 2022,/final/73363-rally-estonia-2022/,Tartu,gravel
+2022,8,71. Secto Rally Finland 2022,/final/73364-secto-rally-finland-2022/,Jyväskylä,gravel
+2022,9,58. Ardeca Ypres Rally Belgium 2022,/final/73805-ardeca-ypres-rally-belgium-2022/,Ypres,asphalt
+2022,10,66. EKO Acropolis Rally Greece 2022,/final/73366-eko-acropolis-rally-greece-2022/,Lamia,gravel
+2022,11,Repco Rally New Zealand 2022,/final/73367-repco-rally-new-zealand-2022/,Auckland,gravel
+2022,12,57. RallyRACC Catalunya - Costa Daurada 2022,/final/73368-rallyracc-catalunya-costa-daurada-2022/,Salou,asphalt
+2022,13,FORUM8 Rally Japan 2022,/final/73369-forum8-rally-japan-2022/,Toyota,asphalt
+2023,1,91. Rallye Automobile Monte-Carlo 2023,/final/77787-rallye-automobile-monte-carlo-2023/,Monaco,asphalt-snow
+2023,2,70. Rally Sweden 2023,/final/79247-rally-sweden-2023/,Umeå,snow-ice
+2023,3,19. Rally Guanajuato México 2023,/final/80236-rally-guanajuato-mexico-2023/,Guanajuato,gravel
+2023,4,Croatia Rally 2023,/final/80237-croatia-rally-2023/,Zagreb,asphalt
+2023,5,56. Vodafone Rally de Portugal 2023,/final/76758-vodafone-rally-de-portugal-2023/,Matosinhos,gravel
+2023,6,20. Rally Italia Sardegna 2023,/final/80238-rally-italia-sardegna-2023/,Olbia,gravel
+2023,7,71. Safari Rally Kenya 2023,/final/80239-safari-rally-kenya-2023/,Naivasha,gravel
+2023,8,13. Rally Estonia 2023,/final/80240-rally-estonia-2023/,20. 7. – 23. 7. 2023,gravel
+2023,9,72. Secto Rally Finland 2023,/final/80241-secto-rally-finland-2023/,Jyväskylä,gravel
+2023,10,67. EKO Acropolis Rally Greece 2023,/final/80243-eko-acropolis-rally-greece-2023/,7. 9. – 10. 9. 2023,gravel
+2023,11,Copec Rally Chile 2023,/final/80242-copec-rally-chile-2023/,28. 9. – 1. 10. 2023,gravel
+2023,12,1. Central Europe Rally 2023,/final/80244-central-europe-rally-2023/,26. 10. – 29. 10. 2023,asphalt
+2023,13,FORUM8 Rally Japan 2023,/final/80245-forum8-rally-japan-2023/,16. 11. – 19. 11. 2023,asphalt
